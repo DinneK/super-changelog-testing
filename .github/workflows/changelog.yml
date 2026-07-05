@@ -70,8 +70,9 @@ jobs:
           fetch-depth: 0
 
       - name: Generate app token
-        uses: actions/create-github-app-token@v1
         id: app-token
+        if: ${{ vars.APP_ID != '' }}
+        uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
@@ -93,8 +94,8 @@ jobs:
           path: changelog_data/
 
       - name: Create Pull Request with Full Summary
-        env: 
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token || secrets.GH_TOKEN }}
         run: |
           # Get latest summary files
           TIMESTAMP=$(date +"%Y-%m-%d")
@@ -167,8 +168,9 @@ jobs:
           fetch-depth: 0
 
       - name: Generate app token
-        uses: actions/create-github-app-token@v1
         id: app-token
+        if: ${{ vars.APP_ID != '' }}
+        uses: actions/create-github-app-token@v1
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
@@ -190,8 +192,8 @@ jobs:
           path: changelog_data/
 
       - name: Create Condensed Pull Request
-        env: 
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token || secrets.GH_TOKEN }}
         run: |
           # Get latest condensed summary files
           TIMESTAMP=$(date +"%Y-%m-%d")
