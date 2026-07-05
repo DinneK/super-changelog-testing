@@ -40,8 +40,7 @@ jobs:
       - name: Generate weekly changelog
         env:
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
-        run: |
-          python scripts/generate_changelog_weekly.py
+        run: python scripts/generate_changelog_historical.py
       
       - name: Generate full summary
         run: |
