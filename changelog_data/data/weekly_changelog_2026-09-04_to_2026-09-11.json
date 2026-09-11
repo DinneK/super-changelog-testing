@@ -1,0 +1,2391 @@
+{
+  "DSACMS": {
+    "repos": [
+      {
+        "name": "repo-scaffolder",
+        "url": "https://github.com/DSACMS/repo-scaffolder",
+        "description": "Templates and commandline tools for creating repositories for US Federal open source projects ",
+        "archived": false,
+        "topics": [
+          "cookiecutter-template",
+          "maturity-models",
+          "repolinter",
+          "repo-hygiene",
+          "cmsoss-tier3",
+          "featured"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "Templates & Outbound Checklists: Add PRA, 508, and Plain Language Policy Guidance",
+            "url": "https://github.com/DSACMS/repo-scaffolder/pull/406",
+            "created_at": "2026-09-08T19:05:53+00:00",
+            "updated_at": "2026-09-08T19:18:41+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "docs(templates): add PRA, Plain Language and Section 508 guidance to the README templates",
+            "url": "https://github.com/DSACMS/repo-scaffolder/pull/401",
+            "created_at": "2026-08-16T02:50:19+00:00",
+            "updated_at": "2026-09-08T19:03:35+00:00",
+            "merged_at": "2026-09-08T19:03:35+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "opensource-joe",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "iv-cbv-payroll",
+        "url": "https://github.com/DSACMS/iv-cbv-payroll",
+        "description": "Eligibility Made Easy (Emmy) using Consent-Based Verification (CBV) is a prototype that allows benefit applicants to verify their income directly using payroll providers. It is currently being piloted for testing and validation purposes.",
+        "archived": false,
+        "topics": [
+          "cms",
+          "community-engagement",
+          "medicaid",
+          "medicaid-expansion",
+          "eligibility-determination",
+          "hr-1",
+          "income-verification",
+          "work-requirement",
+          "education",
+          "open-source",
+          "center-for-medicaid-and-children-services",
+          "education-program",
+          "work-program"
+        ],
+        "issues": [
+          {
+            "title": "DSNP Enrollment Issues For Patients",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/issues/2054",
+            "created_at": "2026-09-10T16:47:03+00:00",
+            "state": "open",
+            "author": "ibuddy66",
+            "is_new": true
+          },
+          {
+            "title": "ZAP Full Scan Report",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/issues/1648",
+            "created_at": "2026-04-27T17:38:57+00:00",
+            "state": "open",
+            "author": "github-actions[bot]",
+            "is_new": false
+          }
+        ],
+        "pulls": [
+          {
+            "title": "Remove bencalegari from reviewer lottery",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2056",
+            "created_at": "2026-09-10T20:03:20+00:00",
+            "updated_at": "2026-09-10T22:01:59+00:00",
+            "merged_at": "2026-09-10T22:01:57+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "krista-skylight",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4818 Make alerts accessible",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2055",
+            "created_at": "2026-09-10T18:12:11+00:00",
+            "updated_at": "2026-09-10T19:37:04+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "ccvetter",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4791 Implement Education type selection screen",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2053",
+            "created_at": "2026-09-10T00:30:10+00:00",
+            "updated_at": "2026-09-10T19:54:46+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "krista-skylight",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4802 & FFS-4803: Update content on \"Choose how you want to add your work\" page on Emmy CE Employment flow, Update helper text on employment information page for paid work in Emmy CE manual reporting flow",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2052",
+            "created_at": "2026-09-09T22:20:07+00:00",
+            "updated_at": "2026-09-10T20:48:34+00:00",
+            "merged_at": "2026-09-10T20:41:43+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "daphnegold",
+            "is_new": true
+          },
+          {
+            "title": "FFS4720 update release process documentation",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2051",
+            "created_at": "2026-09-09T16:49:19+00:00",
+            "updated_at": "2026-09-09T16:58:34+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "serverless-mom",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4819 Alternate text for images",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2050",
+            "created_at": "2026-09-09T16:27:29+00:00",
+            "updated_at": "2026-09-10T13:08:08+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "ccvetter",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4794: Add environment selection to deploy script",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2049",
+            "created_at": "2026-09-09T15:58:44+00:00",
+            "updated_at": "2026-09-10T21:51:26+00:00",
+            "merged_at": "2026-09-10T21:51:23+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "tdooner",
+            "is_new": true
+          },
+          {
+            "title": "Release v0.5.0",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2048",
+            "created_at": "2026-09-09T15:27:26+00:00",
+            "updated_at": "2026-09-10T19:51:40+00:00",
+            "merged_at": "2026-09-10T19:44:53+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "tdooner",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4713 Add an environment variable to disable NSC in a given environment, forcing the Education flow to self-attestation only.",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2047",
+            "created_at": "2026-09-08T22:41:00+00:00",
+            "updated_at": "2026-09-10T21:59:22+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "krista-skylight",
+            "is_new": true
+          },
+          {
+            "title": "Bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /infra/test in the go_modules group across 1 directory",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2046",
+            "created_at": "2026-09-08T21:41:25+00:00",
+            "updated_at": "2026-09-09T15:07:07+00:00",
+            "merged_at": "2026-09-09T15:07:04+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump mixpanel-ruby from 3.3.0 to 3.4.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2045",
+            "created_at": "2026-09-08T15:56:07+00:00",
+            "updated_at": "2026-09-08T20:59:10+00:00",
+            "merged_at": "2026-09-08T20:59:07+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump bootsnap from 1.25.0 to 1.26.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2044",
+            "created_at": "2026-09-08T15:55:39+00:00",
+            "updated_at": "2026-09-08T20:59:50+00:00",
+            "merged_at": "2026-09-08T20:59:49+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4642 Remove help link",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2043",
+            "created_at": "2026-09-08T15:55:35+00:00",
+            "updated_at": "2026-09-09T16:19:13+00:00",
+            "merged_at": "2026-09-09T16:19:11+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "ccvetter",
+            "is_new": true
+          },
+          {
+            "title": "Bump rubocop from 1.89.0 to 1.90.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2042",
+            "created_at": "2026-09-08T15:55:12+00:00",
+            "updated_at": "2026-09-09T17:30:32+00:00",
+            "merged_at": "2026-09-09T17:30:30+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump rails_semantic_logger from 5.1.0 to 5.2.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2041",
+            "created_at": "2026-09-08T15:54:44+00:00",
+            "updated_at": "2026-09-08T21:00:44+00:00",
+            "merged_at": "2026-09-08T21:00:41+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump webpack from 5.110.1 to 5.110.3 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2040",
+            "created_at": "2026-09-08T15:54:29+00:00",
+            "updated_at": "2026-09-08T21:01:04+00:00",
+            "merged_at": "2026-09-08T21:01:02+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump sass from 1.103.1 to 1.104.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2039",
+            "created_at": "2026-09-08T15:54:21+00:00",
+            "updated_at": "2026-09-08T21:19:39+00:00",
+            "merged_at": "2026-09-08T21:19:37+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump lookbook from 2.3.14 to 2.3.15 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2038",
+            "created_at": "2026-09-08T15:54:19+00:00",
+            "updated_at": "2026-09-08T21:01:40+00:00",
+            "merged_at": "2026-09-08T21:01:37+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump vitest from 4.1.11 to 5.0.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2037",
+            "created_at": "2026-09-08T15:54:14+00:00",
+            "updated_at": "2026-09-09T15:02:48+00:00",
+            "merged_at": "2026-09-09T15:02:46+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump postcss-cli from 11.0.1 to 12.0.0 in /app",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2036",
+            "created_at": "2026-09-08T15:54:05+00:00",
+            "updated_at": "2026-09-08T21:02:31+00:00",
+            "merged_at": "2026-09-08T21:02:29+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4718: CE PDF Implementation",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2035",
+            "created_at": "2026-09-04T23:03:45+00:00",
+            "updated_at": "2026-09-09T20:59:01+00:00",
+            "merged_at": "2026-09-09T20:52:06+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "daphnegold",
+            "is_new": true
+          },
+          {
+            "title": "FFS-4717 Stop logging full validation error messages (PII risk) in Employment Self-Attested Mixpanel events",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2034",
+            "created_at": "2026-09-03T22:21:35+00:00",
+            "updated_at": "2026-09-08T18:51:58+00:00",
+            "merged_at": "2026-09-08T18:51:56+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "krista-skylight",
+            "is_new": false
+          },
+          {
+            "title": "FFS-4796 Create v2 invitations api",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2033",
+            "created_at": "2026-09-03T15:20:32+00:00",
+            "updated_at": "2026-09-08T17:12:24+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "ccvetter",
+            "is_new": false
+          },
+          {
+            "title": "Bump postcss-selector-parser from 7.1.1 to 7.1.5 in /app in the npm_and_yarn group across 1 directory",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2032",
+            "created_at": "2026-09-03T05:51:20+00:00",
+            "updated_at": "2026-09-08T21:03:35+00:00",
+            "merged_at": "2026-09-08T21:03:32+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "FFS-4768: Create ActivityJsonTransmitter (with the 2 self-attested activity types)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2031",
+            "created_at": "2026-09-02T23:11:06+00:00",
+            "updated_at": "2026-09-09T17:26:14+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "bencalegari",
+            "is_new": false
+          },
+          {
+            "title": "FFS-4642 Hide language selector",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2029",
+            "created_at": "2026-09-02T12:27:22+00:00",
+            "updated_at": "2026-09-04T19:10:45+00:00",
+            "merged_at": "2026-09-04T19:10:43+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "ccvetter",
+            "is_new": false
+          },
+          {
+            "title": "Bump google.golang.org/grpc from 1.79.3 to 1.83.1 in /infra/test in the go_modules group across 1 directory",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2028",
+            "created_at": "2026-09-01T22:19:05+00:00",
+            "updated_at": "2026-09-08T21:04:21+00:00",
+            "merged_at": "2026-09-08T21:04:19+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "Bump tornado from 6.5.7 to 6.5.8 in /app/analytics in the pip group across 1 directory",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2027",
+            "created_at": "2026-09-01T21:32:53+00:00",
+            "updated_at": "2026-09-08T21:04:40+00:00",
+            "merged_at": "2026-09-08T21:04:39+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "FFS-4592: Fix NSC test scenarios in launcher",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/2012",
+            "created_at": "2026-08-28T21:28:55+00:00",
+            "updated_at": "2026-09-08T21:08:50+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "bencalegari",
+            "is_new": false
+          },
+          {
+            "title": "Create noncompliance notices",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/pull/1869",
+            "created_at": "2026-07-01T18:09:25+00:00",
+            "updated_at": "2026-09-09T19:50:08+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "lmsholar",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "Remove bencalegari from reviewer lottery (#2056)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/471524febabd238d80905b7f0521f670bb5a9d40",
+            "author": "krista-skylight",
+            "created_at": "2026-09-10T22:01:55+00:00"
+          },
+          {
+            "message": "FFS-4794: Add environment selection to deploy script (#2049)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/8554b4430dd138d02a69245f99025529e2b6d235",
+            "author": "Tom Dooner",
+            "created_at": "2026-09-10T21:51:22+00:00"
+          },
+          {
+            "message": "FFS-4802 & FFS-4803: Update content on \"Choose how you want to add your work\" page on Emmy CE Employment flow, Update helper text on employment information page for paid work in Emmy CE manual reporting flow (#2052)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/a621c1b76ad30efa805df2904021d436a8d60356",
+            "author": "Daphne Gold",
+            "created_at": "2026-09-10T20:41:43+00:00"
+          },
+          {
+            "message": "Release v0.5.0 (#2048)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/9711bb58a9fc26eb3d09b1831485e210db585ec6",
+            "author": "Tom Dooner",
+            "created_at": "2026-09-10T19:44:53+00:00"
+          },
+          {
+            "message": "FFS-4718: CE PDF Implementation (#2035)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/c0f23eb4f74ec3aa7ef7a1efedce9f31e1ec8f23",
+            "author": "Daphne Gold",
+            "created_at": "2026-09-09T20:52:05+00:00"
+          },
+          {
+            "message": "Bump rubocop from 1.89.0 to 1.90.0 in /app (#2042)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/5b514504b9da12399688df28de92a5ec04f6eced",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T17:30:29+00:00"
+          },
+          {
+            "message": "FFS-4642 Remove help link (#2043)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/5c67a8be1cf6e33cfa6246a149f8ac0adcb8e3a8",
+            "author": "Chris",
+            "created_at": "2026-09-09T16:19:10+00:00"
+          },
+          {
+            "message": "Bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /infra/test in the go_modules group across 1 directory (#2046)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/93f92c0e003b2b3b8d5aa1b3c3bfed6284d27277",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T15:07:04+00:00"
+          },
+          {
+            "message": "Bump vitest from 4.1.11 to 5.0.0 in /app (#2037)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/3bf0f99a1453698e66a338df9729904c7e0908bb",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T15:02:45+00:00"
+          },
+          {
+            "message": "Bump sass from 1.103.1 to 1.104.0 in /app (#2039)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/4578ae34cde74e12bd044f087075e1729ccf9f67",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:19:36+00:00"
+          },
+          {
+            "message": "Bump tornado from 6.5.7 to 6.5.8 in /app/analytics in the pip group across 1 directory (#2027)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/873f98a990084bc2cff2ae937e2a47ca1ebab20e",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:04:38+00:00"
+          },
+          {
+            "message": "Bump google.golang.org/grpc from 1.79.3 to 1.83.1 in /infra/test in the go_modules group across 1 directory (#2028)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/be41b2df5b142d3645d7350207e5bf1aa6902e98",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:04:19+00:00"
+          },
+          {
+            "message": "Bump postcss-selector-parser from 7.1.1 to 7.1.5 in /app in the npm_and_yarn group across 1 directory (#2032)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/33acc06abdb2981828c0877caf034ef2b0329341",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:03:31+00:00"
+          },
+          {
+            "message": "Bump postcss-cli from 11.0.1 to 12.0.0 in /app (#2036)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/9ce8b0181435c6226a908c6726bac21877d3a6bc",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:02:28+00:00"
+          },
+          {
+            "message": "Bump lookbook from 2.3.14 to 2.3.15 in /app (#2038)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/43f9afc3133acccb452350a048d84bc2109b170d",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:01:37+00:00"
+          },
+          {
+            "message": "Bump webpack from 5.110.1 to 5.110.3 in /app (#2040)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/fe17df793c62003b98edcd489746c2178a9656c1",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:01:01+00:00"
+          },
+          {
+            "message": "Bump rails_semantic_logger from 5.1.0 to 5.2.0 in /app (#2041)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/9e4ff28b8fa54766ee4f686e9b6b76183434c16a",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:00:40+00:00"
+          },
+          {
+            "message": "Bump bootsnap from 1.25.0 to 1.26.0 in /app (#2044)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/ea81472077f58fc58a0d10b60d52cb3f9e5dae28",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T20:59:48+00:00"
+          },
+          {
+            "message": "Bump mixpanel-ruby from 3.3.0 to 3.4.0 in /app (#2045)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/856962fe36b836dc093bdf646a646ed67c2a637e",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T20:59:07+00:00"
+          },
+          {
+            "message": "FFS-4717 Stop logging full validation error messages (PII risk) in Employment Self-Attested Mixpanel events (#2034)\n\nCo-authored-by: Krista Chan <kristachan@Kristas-MacBook-Pro.local>\nCo-authored-by: Daphne Gold <daphnegold@navapbc.com>",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/d981fa27e0a236f1b6755d9c6665c25b5f7f83c1",
+            "author": "krista-skylight",
+            "created_at": "2026-09-08T18:51:55+00:00"
+          },
+          {
+            "message": "FFS-4642 Hide language selector (#2029)",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/commit/b97100c989d00dbd546ff27ee152ab8b0fcc49a2",
+            "author": "Chris",
+            "created_at": "2026-09-04T19:10:42+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": [
+          {
+            "name": "v0.5.0",
+            "body": "### Emmy Income only user facing changes\r\n- No changes, nothing to review!\r\n\r\n### Emmy CE only user facing changes\r\n- CE PDF Implementation [(#2035)](https://github.com/DSACMS/iv-cbv-payroll/pull/2035) - Daphne Gold [[FFS-4718]](https://jiraent.cms.gov/browse/FFS-4718)\r\n- Remove help link [(#2043)](https://github.com/DSACMS/iv-cbv-payroll/pull/2043) - Chris [[FFS-4642]](https://jiraent.cms.gov/browse/FFS-4642)\r\n- Hide language selector [(#2029)](https://github.com/DSACMS/iv-cbv-payroll/pull/2029) - Chris [[FFS-4642]](https://jiraent.cms.gov/browse/FFS-4642)\r\n\r\n### Other/Maintenance (Not user facing)\r\n- Bump rubocop, google.golang.org/grpc, vitest, sass, tornado, google.golang.org/grpc, postcss-selector-parser, postcss-cli, lookbook, webpack, rails_semantic_logger, bootsnap, mixpanel-ruby\r\n- Stop logging full validation error messages (PII risk) in Employment Self-Attested Mixpanel events [(#2034)](https://github.com/DSACMS/iv-cbv-payroll/pull/2034) - krista-skylight [[FFS-4717]](https://jiraent.cms.gov/browse/FFS-4717)\r\n- Remove chromedriver dependency [(#2030)](https://github.com/DSACMS/iv-cbv-payroll/pull/2030) - Chris [[FFS-4289]](https://jiraent.cms.gov/browse/FFS-4289)\r\n- Security audit: remove api token to streamline what the behavior actually would be [(#2016)](https://github.com/DSACMS/iv-cbv-payroll/pull/2016) - iannorriswork\r\n- No consent pdf showing [(#2013)](https://github.com/DSACMS/iv-cbv-payroll/pull/2013) - Chris [[FFS-4596]](https://jiraent.cms.gov/browse/FFS-4596)\r\n- No matching employments error should not crash pdf [(#2015)](https://github.com/DSACMS/iv-cbv-payroll/pull/2015) - Chris [[FFS-4525]](https://jiraent.cms.gov/browse/FFS-4525)\r\n\r\n",
+            "url": "https://github.com/DSACMS/iv-cbv-payroll/releases/tag/v0.5.0",
+            "published_at": "2026-09-10T19:46:02+00:00",
+            "created_at": "2026-09-10T19:44:53+00:00",
+            "is_draft": false,
+            "is_prerelease": false,
+            "author": "tdooner",
+            "tag_name": "v0.5.0"
+          }
+        ]
+      },
+      {
+        "name": "codejson-generator",
+        "url": "https://github.com/DSACMS/codejson-generator",
+        "description": "Form to generate code.json",
+        "archived": false,
+        "topics": [
+          "dsacms-tier3",
+          "featured"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "docs(contributor): contributors readme action update",
+            "url": "https://github.com/DSACMS/codejson-generator/pull/142",
+            "created_at": "2026-09-05T05:53:10+00:00",
+            "updated_at": "2026-09-05T05:53:10+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "github-actions[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Adding Local AI Generation",
+            "url": "https://github.com/DSACMS/codejson-generator/pull/141",
+            "created_at": "2026-09-02T20:09:39+00:00",
+            "updated_at": "2026-09-09T20:18:12+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "sachin-panayil",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "testing-repository",
+        "url": "https://github.com/DSACMS/testing-repository",
+        "description": "Test repository for Repolinter Actions",
+        "archived": false,
+        "topics": [
+          "healthcare"
+        ],
+        "issues": [
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/102",
+            "created_at": "2026-09-10T23:21:16+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/101",
+            "created_at": "2026-09-10T21:26:04+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/100",
+            "created_at": "2026-09-10T20:05:34+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/99",
+            "created_at": "2026-09-10T16:43:07+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/98",
+            "created_at": "2026-09-04T19:36:13+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          },
+          {
+            "title": "Archival Candidates Report",
+            "url": "https://github.com/DSACMS/testing-repository/issues/97",
+            "created_at": "2026-09-04T17:33:39+00:00",
+            "state": "open",
+            "author": "natalialuzuriaga",
+            "is_new": true
+          }
+        ],
+        "pulls": [],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "super-changelog",
+        "url": "https://github.com/DSACMS/super-changelog",
+        "description": "SuperChangelog is a tool for aggregating CHANGELOG.md files from individual repositories into one SUPERCHANGELOG",
+        "archived": false,
+        "topics": [
+          "cmsgov",
+          "cmsoss-tier3",
+          "commops",
+          "ospo",
+          "superchangelog",
+          "featured"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "Weekly Changelog Summary: 2026-05-28 to 2026-06-04",
+            "url": "https://github.com/DSACMS/super-changelog/pull/161",
+            "created_at": "2026-09-04T04:16:24+00:00",
+            "updated_at": "2026-09-04T04:16:25+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "super-changelog-bot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "\ud83d\udccb Changelog Summary: 2026-08-28 to 2026-09-04",
+            "url": "https://github.com/DSACMS/super-changelog/pull/160",
+            "created_at": "2026-09-04T04:16:16+00:00",
+            "updated_at": "2026-09-04T04:16:17+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "super-changelog-bot[bot]",
+            "is_new": true
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [
+          {
+            "version": "1.0.0",
+            "date": "2026-06-16",
+            "changes": [
+              {
+                "category": "Added",
+                "items": [
+                  "Initial release of super-changelog",
+                  "Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs",
+                  "Historical reporting with a custom date range",
+                  "Org-agnostic design &mdash; works with any public GitHub organization",
+                  "JSON data output for downstream dashboards and reporting",
+                  "GitHub Ations workflow for automated weekly runs"
+                ]
+              }
+            ]
+          }
+        ],
+        "releases": []
+      },
+      {
+        "name": "archival-identifier",
+        "url": "https://github.com/DSACMS/archival-identifier",
+        "description": "A GitHub Action to identify repositories for archival",
+        "archived": false,
+        "topics": [
+          "dsacms-tier3",
+          "archive",
+          "archive-candidate",
+          "end-of-life",
+          "eol",
+          "featured",
+          "github-actions",
+          "organization-management",
+          "ospos",
+          "stale-repo",
+          "sunset"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "Dsacms/zion/dormant streams",
+            "url": "https://github.com/DSACMS/archival-identifier/pull/24",
+            "created_at": "2026-08-12T15:31:56+00:00",
+            "updated_at": "2026-09-10T22:17:29+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "zionmich",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "fast-facts-2.0",
+        "url": "https://github.com/DSACMS/fast-facts-2.0",
+        "description": "Reimagining CMS Fast Facts communication of summary information",
+        "archived": false,
+        "topics": [
+          "dsacms-tier2"
+        ],
+        "issues": [
+          {
+            "title": "Alt Text",
+            "url": "https://github.com/DSACMS/fast-facts-2.0/issues/61",
+            "created_at": "2026-09-04T15:28:49+00:00",
+            "state": "open",
+            "author": "achafetz",
+            "is_new": true
+          }
+        ],
+        "pulls": [],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "emmy-agent-marketplace",
+        "url": "https://github.com/DSACMS/emmy-agent-marketplace",
+        "description": null,
+        "archived": false,
+        "topics": [],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "Bump the javascript-development-dependencies group across 1 directory with 2 updates",
+            "url": "https://github.com/DSACMS/emmy-agent-marketplace/pull/15",
+            "created_at": "2026-07-06T13:17:48+00:00",
+            "updated_at": "2026-09-07T13:11:18+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "medicare_monthly_enrollment_dashboard",
+        "url": "https://github.com/DSACMS/medicare_monthly_enrollment_dashboard",
+        "description": "Re-implement the Medicare Monthly Enrollment dashboard in an open-source framework that could be deployed to data.cms.gov in the future.",
+        "archived": false,
+        "topics": [
+          "dsacms-tier2",
+          "dashboard",
+          "medicare",
+          "medicare-advantage",
+          "medicare-data",
+          "prescription-drug"
+        ],
+        "issues": [
+          {
+            "title": "Add \"download csv\" buttons to all tables",
+            "url": "https://github.com/DSACMS/medicare_monthly_enrollment_dashboard/issues/49",
+            "created_at": "2026-08-14T19:47:16+00:00",
+            "state": "open",
+            "author": "kmsheikh",
+            "is_new": false
+          }
+        ],
+        "pulls": [
+          {
+            "title": "Feature/webmcp",
+            "url": "https://github.com/DSACMS/medicare_monthly_enrollment_dashboard/pull/63",
+            "created_at": "2026-09-04T16:24:12+00:00",
+            "updated_at": "2026-09-04T16:24:12+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "mgifford",
+            "is_new": true
+          },
+          {
+            "title": "Feature/accessibility",
+            "url": "https://github.com/DSACMS/medicare_monthly_enrollment_dashboard/pull/62",
+            "created_at": "2026-09-04T16:12:19+00:00",
+            "updated_at": "2026-09-04T16:12:39+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "mgifford",
+            "is_new": true
+          },
+          {
+            "title": "Added download CSV button to trend data table",
+            "url": "https://github.com/DSACMS/medicare_monthly_enrollment_dashboard/pull/53",
+            "created_at": "2026-08-14T22:11:48+00:00",
+            "updated_at": "2026-09-09T02:34:22+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "Masad791",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "fdsh-utils",
+        "url": "https://github.com/DSACMS/fdsh-utils",
+        "description": null,
+        "archived": false,
+        "topics": [],
+        "issues": [],
+        "pulls": [
+          {
+            "title": " [FFS-4823] fix misnamed services and introduce a schema viewer for NSC data",
+            "url": "https://github.com/DSACMS/fdsh-utils/pull/27",
+            "created_at": "2026-09-10T18:17:55+00:00",
+            "updated_at": "2026-09-10T18:21:56+00:00",
+            "merged_at": "2026-09-10T18:21:56+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "iannorriswork",
+            "is_new": true
+          },
+          {
+            "title": "Second round feedback tweaks",
+            "url": "https://github.com/DSACMS/fdsh-utils/pull/26",
+            "created_at": "2026-09-10T16:52:08+00:00",
+            "updated_at": "2026-09-10T17:09:16+00:00",
+            "merged_at": "2026-09-10T17:09:15+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "iannorriswork",
+            "is_new": true
+          },
+          {
+            "title": "  [FFS-4823] apply feedback to make the page a bit more informative",
+            "url": "https://github.com/DSACMS/fdsh-utils/pull/25",
+            "created_at": "2026-09-10T15:13:57+00:00",
+            "updated_at": "2026-09-10T15:31:29+00:00",
+            "merged_at": "2026-09-10T15:31:29+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "iannorriswork",
+            "is_new": true
+          },
+          {
+            "title": "[FFS-4823] add it to github page action",
+            "url": "https://github.com/DSACMS/fdsh-utils/pull/24",
+            "created_at": "2026-09-09T22:06:28+00:00",
+            "updated_at": "2026-09-10T14:25:18+00:00",
+            "merged_at": "2026-09-10T14:25:18+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "iannorriswork",
+            "is_new": true
+          },
+          {
+            "title": "[FFS-4823] create experimental repository of information to make sorting through hub information easier",
+            "url": "https://github.com/DSACMS/fdsh-utils/pull/23",
+            "created_at": "2026-09-09T17:50:24+00:00",
+            "updated_at": "2026-09-09T21:55:14+00:00",
+            "merged_at": "2026-09-09T21:55:14+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "iannorriswork",
+            "is_new": true
+          }
+        ],
+        "commits": [
+          {
+            "message": " [FFS-4823] fix misnamed services and introduce a schema viewer for NSC data (#27)",
+            "url": "https://github.com/DSACMS/fdsh-utils/commit/72de53ea8c54b3b0734c4f4c2da6c5027244e79a",
+            "author": "iannorriswork",
+            "created_at": "2026-09-10T18:21:55+00:00"
+          },
+          {
+            "message": "Second round feedback tweaks (#26)\n\n* [FFS-4823] find a way to put docs in the repo but not check in until we can get approval potentially, and make the disclaimer bigger\n\n* fold in additional essential data\n\n* service names\n\n* add scraper\n\n* prettify\n\n* what spelling is possible to fix\n\n---------\n\nCo-authored-by: Ian Norris <iannorris@Ians-MacBook-Pro.local>",
+            "url": "https://github.com/DSACMS/fdsh-utils/commit/1388cab785fb42f7e9d12edd367f983d347986cb",
+            "author": "iannorriswork",
+            "created_at": "2026-09-10T17:09:15+00:00"
+          },
+          {
+            "message": "  [FFS-4823] apply feedback to make the page a bit more informative (#25)",
+            "url": "https://github.com/DSACMS/fdsh-utils/commit/b08bed68bfb6fbf849e0a93679bd26fe6af3ca30",
+            "author": "iannorriswork",
+            "created_at": "2026-09-10T15:31:28+00:00"
+          },
+          {
+            "message": "pages tweaks (#24)\n\nCo-authored-by: Ian Norris <iannorris@Ians-MacBook-Pro.local>",
+            "url": "https://github.com/DSACMS/fdsh-utils/commit/013ede692cdc5e08fa48eb5c8277695c815273ee",
+            "author": "iannorriswork",
+            "created_at": "2026-09-10T14:25:17+00:00"
+          },
+          {
+            "message": "[FFS-4823] create experimental repository of information to make sorting through hub information easier (#23)\n\n\n\n---------\n\nCo-authored-by: Ian Norris <iannorris@Ians-MacBook-Pro.local>",
+            "url": "https://github.com/DSACMS/fdsh-utils/commit/90ae58ecba64b9ccba7963740c6b7d2eb6b88ae9",
+            "author": "iannorriswork",
+            "created_at": "2026-09-09T21:55:13+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "year-in-review-cif",
+        "url": "https://github.com/DSACMS/year-in-review-cif",
+        "description": "Generate a prototype \"Year in Review\" report of the OSPO's activity and impact.",
+        "archived": false,
+        "topics": [
+          "dataviz",
+          "year-in-review",
+          "codingitforward",
+          "heatlightlove"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "Upstream accessibility",
+            "url": "https://github.com/DSACMS/year-in-review-cif/pull/1",
+            "created_at": "2026-09-03T21:59:14+00:00",
+            "updated_at": "2026-09-04T16:13:33+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "mgifford",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      }
+    ],
+    "period": {
+      "start": "2026-09-04",
+      "end": "2026-09-11"
+    },
+    "generated_at": "2026-09-11T03:01:10.253789+00:00",
+    "total_repo_count": 99
+  },
+  "CMS-Enterprise": {
+    "repos": [
+      {
+        "name": "easi-app",
+        "url": "https://github.com/CMS-Enterprise/easi-app",
+        "description": "EASi App",
+        "archived": false,
+        "topics": [],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "build(deps): bump @tiptap/core from 2.12.0 to 3.30.5",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3551",
+            "created_at": "2026-09-08T22:10:27+00:00",
+            "updated_at": "2026-09-08T22:10:29+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "build(deps-dev): bump vitest from 3.2.6 to 5.0.0",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3550",
+            "created_at": "2026-09-08T22:09:58+00:00",
+            "updated_at": "2026-09-09T21:29:13+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "[NOREF] bump cypress to account for end of LTS",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3549",
+            "created_at": "2026-09-08T21:48:26+00:00",
+            "updated_at": "2026-09-09T15:23:53+00:00",
+            "merged_at": "2026-09-09T15:23:50+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "samoddball",
+            "is_new": true
+          },
+          {
+            "title": "[EASI-5059] add cedar fields",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3548",
+            "created_at": "2026-09-08T17:31:43+00:00",
+            "updated_at": "2026-09-10T17:48:57+00:00",
+            "merged_at": "2026-09-10T17:48:55+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "samoddball",
+            "is_new": true
+          },
+          {
+            "title": "build(deps): bump the other group across 1 directory with 18 updates",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3547",
+            "created_at": "2026-09-07T16:01:04+00:00",
+            "updated_at": "2026-09-09T18:08:30+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "build(deps): bump aws-actions/configure-aws-credentials from 6.2.3 to 6.2.4 in the other group",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3546",
+            "created_at": "2026-09-07T15:56:41+00:00",
+            "updated_at": "2026-09-08T21:37:57+00:00",
+            "merged_at": "2026-09-08T21:37:54+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "build(deps): bump browserslist from 4.28.2 to 4.28.7",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3545",
+            "created_at": "2026-09-07T00:33:12+00:00",
+            "updated_at": "2026-09-08T21:15:40+00:00",
+            "merged_at": "2026-09-08T21:15:37+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "build(deps): bump fast-uri from 3.1.5 to 3.1.7",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3544",
+            "created_at": "2026-09-03T04:55:28+00:00",
+            "updated_at": "2026-09-09T18:19:12+00:00",
+            "merged_at": "2026-09-09T18:19:09+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "build(deps): bump dompurify from 3.4.13 to 3.4.14",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3543",
+            "created_at": "2026-09-02T17:20:16+00:00",
+            "updated_at": "2026-09-09T17:57:20+00:00",
+            "merged_at": "2026-09-09T17:57:18+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "build(deps): bump @tiptap/core from 2.12.0 to 3.30.4",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3542",
+            "created_at": "2026-09-02T17:19:37+00:00",
+            "updated_at": "2026-09-08T22:10:33+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "build(deps): bump the other group across 1 directory with 17 updates",
+            "url": "https://github.com/CMS-Enterprise/easi-app/pull/3541",
+            "created_at": "2026-08-31T16:00:31+00:00",
+            "updated_at": "2026-09-07T16:00:20+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "[EASI-5059] add cedar fields (#3548)\n\n* add new fields to translation type, wire up in mapper\n\n* bump version",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/ba5397a51dd27b5f7011b40a7496b06cfe135e56",
+            "author": "samoddball",
+            "created_at": "2026-09-10T17:48:54+00:00"
+          },
+          {
+            "message": "build(deps): bump fast-uri from 3.1.5 to 3.1.7 (#3544)\n\nBumps [fast-uri](https://github.com/fastify/fast-uri) from 3.1.5 to 3.1.7.\n- [Release notes](https://github.com/fastify/fast-uri/releases)\n- [Commits](https://github.com/fastify/fast-uri/compare/v3.1.5...v3.1.7)\n\n---\nupdated-dependencies:\n- dependency-name: fast-uri\n  dependency-version: 3.1.7\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: samoddball <156127704+samoddball@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/8100ebb82f73270f664a391c8d782041533d260a",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T18:19:09+00:00"
+          },
+          {
+            "message": "build(deps): bump dompurify from 3.4.13 to 3.4.14 (#3543)\n\nBumps [dompurify](https://github.com/cure53/DOMPurify) from 3.4.13 to 3.4.14.\n- [Release notes](https://github.com/cure53/DOMPurify/releases)\n- [Commits](https://github.com/cure53/DOMPurify/compare/3.4.13...3.4.14)\n\n---\nupdated-dependencies:\n- dependency-name: dompurify\n  dependency-version: 3.4.14\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: samoddball <156127704+samoddball@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/02da1aa16f9e36f2fd1844bad602910ebdf27925",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T17:57:18+00:00"
+          },
+          {
+            "message": "[NOREF] bump cypress to account for end of LTS (#3549)\n\nbump cypress to account for end of LTS",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/72c4157638eb0992e7f93349f00f90698550ac24",
+            "author": "samoddball",
+            "created_at": "2026-09-09T15:23:49+00:00"
+          },
+          {
+            "message": "build(deps): bump aws-actions/configure-aws-credentials from 6.2.3 to 6.2.4 in the other group (#3546)\n\nbuild(deps): bump aws-actions/configure-aws-credentials\n\nBumps the other group with 1 update: [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials).\n\n\nUpdates `aws-actions/configure-aws-credentials` from 6.2.3 to 6.2.4\n- [Release notes](https://github.com/aws-actions/configure-aws-credentials/releases)\n- [Changelog](https://github.com/aws-actions/configure-aws-credentials/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.3...v6.2.4)\n\n---\nupdated-dependencies:\n- dependency-name: aws-actions/configure-aws-credentials\n  dependency-version: 6.2.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: samoddball <156127704+samoddball@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/544d3fddd46b4d360ef2486497e187e69f489cfb",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:37:54+00:00"
+          },
+          {
+            "message": "build(deps): bump browserslist from 4.28.2 to 4.28.7 (#3545)\n\nBumps [browserslist](https://github.com/browserslist/browserslist) from 4.28.2 to 4.28.7.\n- [Release notes](https://github.com/browserslist/browserslist/releases)\n- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/browserslist/browserslist/compare/4.28.2...4.28.7)\n\n---\nupdated-dependencies:\n- dependency-name: browserslist\n  dependency-version: 4.28.7\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/easi-app/commit/0443c4b19dc61d1626557acf4daaa1ba328c7536",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T21:15:37+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "mint-app",
+        "url": "https://github.com/CMS-Enterprise/mint-app",
+        "description": "MINT App",
+        "archived": false,
+        "topics": [
+          "graphql",
+          "serverless"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "[NOREF] Replace task state with status for status tag",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2523",
+            "created_at": "2026-09-10T20:34:37+00:00",
+            "updated_at": "2026-09-10T22:34:20+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "yiranli624",
+            "is_new": true
+          },
+          {
+            "title": "[NOREF] Updating Vitest to 4.1.10",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2522",
+            "created_at": "2026-09-10T19:01:13+00:00",
+            "updated_at": "2026-09-10T19:04:11+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "garyjzhao",
+            "is_new": true
+          },
+          {
+            "title": "[NOREF] fix merge conflicts for waiver assessment survey",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2521",
+            "created_at": "2026-09-10T17:06:26+00:00",
+            "updated_at": "2026-09-10T20:13:53+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "samoddball",
+            "is_new": true
+          },
+          {
+            "title": "Feature/mint 3575 waiver assessment survey",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2520",
+            "created_at": "2026-09-10T15:48:21+00:00",
+            "updated_at": "2026-09-10T23:19:34+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "samoddball",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3843] BE Resolver Work to Mark OA Presentation Status Change",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2518",
+            "created_at": "2026-09-10T14:51:40+00:00",
+            "updated_at": "2026-09-10T15:07:59+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "garyjzhao",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3834] 6 Pager Task Card",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2517",
+            "created_at": "2026-09-09T21:04:30+00:00",
+            "updated_at": "2026-09-09T21:22:18+00:00",
+            "merged_at": "2026-09-09T21:22:16+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "yiranli624",
+            "is_new": true
+          },
+          {
+            "title": "Mint 3879/change history 6 pager",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2516",
+            "created_at": "2026-09-09T20:24:41+00:00",
+            "updated_at": "2026-09-09T20:51:52+00:00",
+            "merged_at": "2026-09-09T20:51:49+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "Peyton232",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump joi from 17.13.4 to 17.13.7",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2515",
+            "created_at": "2026-09-09T19:54:20+00:00",
+            "updated_at": "2026-09-09T20:54:54+00:00",
+            "merged_at": "2026-09-09T20:54:52+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps-dev): bump vitest from 3.2.6 to 4.1.11",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2514",
+            "created_at": "2026-09-09T19:53:00+00:00",
+            "updated_at": "2026-09-10T19:02:08+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3842] Move OA to Current When 6 Pager Is Complete",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2513",
+            "created_at": "2026-09-09T17:45:38+00:00",
+            "updated_at": "2026-09-10T15:07:58+00:00",
+            "merged_at": "2026-09-10T15:07:55+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "garyjzhao",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3828] OA Presentation Feature Branch",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2512",
+            "created_at": "2026-09-09T17:22:41+00:00",
+            "updated_at": "2026-09-10T15:07:59+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "garyjzhao",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3869] Add Star Avatar for Assessment Users in Change History ",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2511",
+            "created_at": "2026-09-09T17:15:42+00:00",
+            "updated_at": "2026-09-10T14:00:49+00:00",
+            "merged_at": "2026-09-10T14:00:48+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "garyjzhao",
+            "is_new": true
+          },
+          {
+            "title": "change history for 6 pager",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2510",
+            "created_at": "2026-09-09T16:18:18+00:00",
+            "updated_at": "2026-09-09T20:51:52+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "Peyton232",
+            "is_new": true
+          },
+          {
+            "title": "[NOREF] fix migration to account for audit table triggers",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2509",
+            "created_at": "2026-09-08T18:40:55+00:00",
+            "updated_at": "2026-09-08T19:53:40+00:00",
+            "merged_at": "2026-09-08T19:53:38+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "samoddball",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3845] Add PREPARE_FOR_CLEARANCE plan task key with 20-day clearance trigger",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2508",
+            "created_at": "2026-09-08T15:11:02+00:00",
+            "updated_at": "2026-09-10T18:39:18+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "Peyton232",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump the other group across 1 directory with 9 updates",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2507",
+            "created_at": "2026-09-08T14:41:49+00:00",
+            "updated_at": "2026-09-08T16:25:05+00:00",
+            "merged_at": "2026-09-08T16:25:03+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump the other group across 1 directory with 33 updates",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2506",
+            "created_at": "2026-09-08T14:25:05+00:00",
+            "updated_at": "2026-09-09T22:08:37+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump the other group across 1 directory with 22 updates",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2505",
+            "created_at": "2026-09-07T01:33:00+00:00",
+            "updated_at": "2026-09-08T14:22:51+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump the other group with 8 updates",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2504",
+            "created_at": "2026-09-07T01:29:21+00:00",
+            "updated_at": "2026-09-08T14:32:50+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Build(deps): bump aws-actions/configure-aws-credentials from 6.2.3 to 6.2.4 in the other group",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2503",
+            "created_at": "2026-09-07T01:25:54+00:00",
+            "updated_at": "2026-09-09T19:44:31+00:00",
+            "merged_at": "2026-09-09T19:44:29+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "[MINT-3833] Mark 2 pager complete or todo",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2502",
+            "created_at": "2026-09-02T22:00:56+00:00",
+            "updated_at": "2026-09-04T15:25:00+00:00",
+            "merged_at": "2026-09-04T15:24:58+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "yiranli624",
+            "is_new": false
+          },
+          {
+            "title": "Build(deps): bump @tiptap/core from 2.27.1 to 3.30.4",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2498",
+            "created_at": "2026-09-02T17:56:25+00:00",
+            "updated_at": "2026-09-08T14:14:17+00:00",
+            "merged_at": "2026-09-08T14:14:16+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "[MINT-3869] Add Star Avatar for Assessment Users in Change History ",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2497",
+            "created_at": "2026-09-02T14:59:02+00:00",
+            "updated_at": "2026-09-09T17:16:18+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "garyjzhao",
+            "is_new": false
+          },
+          {
+            "title": "Build(deps): bump the other group across 1 directory with 23 updates",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2491",
+            "created_at": "2026-08-31T01:32:38+00:00",
+            "updated_at": "2026-09-08T14:11:23+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": false
+          },
+          {
+            "title": "Feature/mint 3826 tasks v2 6 pager",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2485",
+            "created_at": "2026-08-26T17:47:53+00:00",
+            "updated_at": "2026-09-09T21:22:17+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "Peyton232",
+            "is_new": false
+          },
+          {
+            "title": "[Feature/MINT-3825] Tasks v2 2 pager",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2476",
+            "created_at": "2026-08-24T15:33:21+00:00",
+            "updated_at": "2026-09-09T16:05:10+00:00",
+            "merged_at": "2026-09-09T16:05:09+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "Peyton232",
+            "is_new": false
+          },
+          {
+            "title": "[Feature/MINT-3535] Subject Area in Discussions",
+            "url": "https://github.com/CMS-Enterprise/mint-app/pull/2429",
+            "created_at": "2026-07-30T17:57:48+00:00",
+            "updated_at": "2026-09-08T14:58:58+00:00",
+            "merged_at": "2026-09-08T14:58:51+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "samoddball",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "[MINT-3869] Add Star Avatar for Assessment Users in Change History  (#2511)\n\nredoing #2497 for a clean git",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/81240ddc4016839e5e4e3c2aaf1d1157539b530a",
+            "author": "Gary Zhao",
+            "created_at": "2026-09-10T13:56:37+00:00"
+          },
+          {
+            "message": "Build(deps): bump joi from 17.13.4 to 17.13.7 (#2515)\n\n* Build(deps): bump joi from 17.13.4 to 17.13.7\n\nBumps [joi](https://github.com/hapijs/joi) from 17.13.4 to 17.13.7.\n- [Commits](https://github.com/hapijs/joi/compare/v17.13.4...v17.13.7)\n\n---\nupdated-dependencies:\n- dependency-name: joi\n  dependency-version: 17.13.7\n  dependency-type: indirect\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\n\n* retrigger pipeline\n\n---------\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/67c5d82da600a3cd1733f1cd90c5a2e4b96364ec",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T20:46:28+00:00"
+          },
+          {
+            "message": "Build(deps): bump aws-actions/configure-aws-credentials from 6.2.3 to 6.2.4 in the other group (#2503)\n\nBuild(deps): bump aws-actions/configure-aws-credentials\n\nBumps the other group with 1 update: [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials).\n\n\nUpdates `aws-actions/configure-aws-credentials` from 6.2.3 to 6.2.4\n- [Release notes](https://github.com/aws-actions/configure-aws-credentials/releases)\n- [Changelog](https://github.com/aws-actions/configure-aws-credentials/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.3...v6.2.4)\n\n---\nupdated-dependencies:\n- dependency-name: aws-actions/configure-aws-credentials\n  dependency-version: 6.2.4\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: samoddball <156127704+samoddball@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/86239479e0ae1a4d072c0fcb3fc5de7f8b87847f",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T19:41:34+00:00"
+          },
+          {
+            "message": "[Feature/MINT-3825] Tasks v2 2 pager (#2476)\n\n* Add TWO_PAGER plan task key, seeded on model plan creation (#2470)\n\n* Add TWO_PAGER plan task key, seeded on model plan creation\n\n* fix comment\n\n* Mint 3831/tasks 2 page resolvers (#2472)\n\n* Add markPlanTaskComplete mutation for manually-markable plan tasks\n\n* Add Bruno collection calls for plan task queries and markPlanTaskComplete\n\n* Wire up PlanTask user account resolvers by dropping forceResolver\n\n* Cross-reference calculated vs manually-markable plan task keys in doc comments\n\n* Renumber Two Pager migration to V274 to avoid colliding with main's V273\n\n* attempted port of the 6-pager doc task link infra to the 2-pager feature (#2492)\n\n* attempted port of the 6-pager doc task link infra to the 2-pager feature\n\n* Add planTaskID to Documents page test mocks to match schema\n\n* test fix\n\n---------\n\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>\n\n* [MINT-3832] Add 2 pager to task section (#2496)\n\n* [Add 2 pager to task section, and update tests]\n\n* [Clean up]\n\n* [MINT-3833] Mark 2 pager complete or todo (#2502)\n\n[Mark 2 pager complete or todo]\n\n* [Fix title case]\n\n* added to change history\n\n* added to change history\n\n* changed woridng on change history\n\n* Fix migration version collision: main's V274 (Discussion Topic) already merged, renumber this branch's own migrations after it instead\n\n* changed wording on 2 pager change history\n\n* Revert migration renumbering: dev already applied Discussion Topic at V277 before this fix landed, so match what's live instead of main's ordering\n\n* wording for acronym\n\n* heading fix\n\n* Realign migration numbering to match main exactly (V274=Discussion Topic)\n\nRequires running 'flyway repair' against the dev database before this is\ndeployed, to reconcile its already-applied history (which has Two Pager at\nV274 from an earlier numbering mistake) with this file layout.\n\n* [Fix capitlized case]\n\n---------\n\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>\nCo-authored-by: Elle Li <68085997+yiranli624@users.noreply.github.com>\nCo-authored-by: Elle Li <elle.li@oddball.io>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/0dd18442e19d8536198bdad9cccdaaa3fc502528",
+            "author": "Peyton T",
+            "created_at": "2026-09-09T16:01:24+00:00"
+          },
+          {
+            "message": "[NOREF] fix migration to account for audit table triggers (#2509)\n\n* fix migration to account for audit table triggers\n\n* Change modified_by assignment in discussion topic migration\n\nCo-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>\n\n* retrigger\n\n---------\n\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>\nCo-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/f2d576179ab69a25ac1a6e71c39ece04147a74ed",
+            "author": "samoddball",
+            "created_at": "2026-09-08T19:49:28+00:00"
+          },
+          {
+            "message": "Build(deps): bump the other group across 1 directory with 9 updates (#2507)\n\n* Build(deps): bump the other group across 1 directory with 9 updates\n\nBumps the other group with 7 updates in the / directory:\n\n| Package | From | To |\n| --- | --- | --- |\n| [github.com/99designs/gqlgen](https://github.com/99designs/gqlgen) | `0.17.94` | `0.17.95` |\n| [golang.org/x/sync](https://github.com/golang/sync) | `0.22.0` | `0.23.0` |\n| [github.com/aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | `1.45.0` | `1.46.0` |\n| [github.com/aws/aws-sdk-go-v2/config](https://github.com/aws/aws-sdk-go-v2) | `1.33.0` | `1.33.3` |\n| [github.com/aws/aws-sdk-go-v2/feature/rds/auth](https://github.com/aws/aws-sdk-go-v2) | `1.7.0` | `1.7.2` |\n| [github.com/aws/aws-sdk-go-v2/service/lambda](https://github.com/aws/aws-sdk-go-v2) | `1.104.0` | `1.107.0` |\n| [github.com/aws/aws-sdk-go-v2/service/s3](https://github.com/aws/aws-sdk-go-v2) | `1.109.0` | `1.111.0` |\n\n\n\nUpdates `github.com/99designs/gqlgen` from 0.17.94 to 0.17.95\n- [Release notes](https://github.com/99designs/gqlgen/releases)\n- [Changelog](https://github.com/99designs/gqlgen/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/99designs/gqlgen/compare/v0.17.94...v0.17.95)\n\nUpdates `github.com/vektah/gqlparser/v2` from 2.5.36 to 2.5.37\n- [Release notes](https://github.com/vektah/gqlparser/releases)\n- [Commits](https://github.com/vektah/gqlparser/compare/v2.5.36...v2.5.37)\n\nUpdates `golang.org/x/sync` from 0.22.0 to 0.23.0\n- [Commits](https://github.com/golang/sync/compare/v0.22.0...v0.23.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2` from 1.45.0 to 1.46.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.45.0...v1.46.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2/config` from 1.33.0 to 1.33.3\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.33.0...config/v1.33.3)\n\nUpdates `github.com/aws/aws-sdk-go-v2/credentials` from 1.20.0 to 1.20.3\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.20.0...v1.20.3)\n\nUpdates `github.com/aws/aws-sdk-go-v2/feature/rds/auth` from 1.7.0 to 1.7.2\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.7.0...service/m2/v1.7.2)\n\nUpdates `github.com/aws/aws-sdk-go-v2/service/lambda` from 1.104.0 to 1.107.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/service/s3/v1.104.0...service/s3/v1.107.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2/service/s3` from 1.109.0 to 1.111.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/service/s3/v1.109.0...service/s3/v1.111.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/99designs/gqlgen\n  dependency-version: 0.17.95\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/vektah/gqlparser/v2\n  dependency-version: 2.5.37\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: golang.org/x/sync\n  dependency-version: 0.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2\n  dependency-version: 1.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/config\n  dependency-version: 1.33.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/credentials\n  dependency-version: 1.20.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/feature/rds/auth\n  dependency-version: 1.7.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/service/lambda\n  dependency-version: 1.107.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/service/s3\n  dependency-version: 1.111.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\n\n* Build(deps): bump the other group across 1 directory with 9 updates\n\nBumps the other group with 7 updates in the / directory:\n\n| Package | From | To |\n| --- | --- | --- |\n| [github.com/99designs/gqlgen](https://github.com/99designs/gqlgen) | `0.17.94` | `0.17.95` |\n| [golang.org/x/sync](https://github.com/golang/sync) | `0.22.0` | `0.23.0` |\n| [github.com/aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) | `1.45.0` | `1.46.0` |\n| [github.com/aws/aws-sdk-go-v2/config](https://github.com/aws/aws-sdk-go-v2) | `1.33.0` | `1.33.3` |\n| [github.com/aws/aws-sdk-go-v2/feature/rds/auth](https://github.com/aws/aws-sdk-go-v2) | `1.7.0` | `1.7.2` |\n| [github.com/aws/aws-sdk-go-v2/service/lambda](https://github.com/aws/aws-sdk-go-v2) | `1.104.0` | `1.107.0` |\n| [github.com/aws/aws-sdk-go-v2/service/s3](https://github.com/aws/aws-sdk-go-v2) | `1.109.0` | `1.111.0` |\n\n\n\nUpdates `github.com/99designs/gqlgen` from 0.17.94 to 0.17.95\n- [Release notes](https://github.com/99designs/gqlgen/releases)\n- [Changelog](https://github.com/99designs/gqlgen/blob/master/CHANGELOG.md)\n- [Commits](https://github.com/99designs/gqlgen/compare/v0.17.94...v0.17.95)\n\nUpdates `github.com/vektah/gqlparser/v2` from 2.5.36 to 2.5.37\n- [Release notes](https://github.com/vektah/gqlparser/releases)\n- [Commits](https://github.com/vektah/gqlparser/compare/v2.5.36...v2.5.37)\n\nUpdates `golang.org/x/sync` from 0.22.0 to 0.23.0\n- [Commits](https://github.com/golang/sync/compare/v0.22.0...v0.23.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2` from 1.45.0 to 1.46.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.45.0...v1.46.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2/config` from 1.33.0 to 1.33.3\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.33.0...config/v1.33.3)\n\nUpdates `github.com/aws/aws-sdk-go-v2/credentials` from 1.20.0 to 1.20.3\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.20.0...v1.20.3)\n\nUpdates `github.com/aws/aws-sdk-go-v2/feature/rds/auth` from 1.7.0 to 1.7.2\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/v1.7.0...service/m2/v1.7.2)\n\nUpdates `github.com/aws/aws-sdk-go-v2/service/lambda` from 1.104.0 to 1.107.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/service/s3/v1.104.0...service/s3/v1.107.0)\n\nUpdates `github.com/aws/aws-sdk-go-v2/service/s3` from 1.109.0 to 1.111.0\n- [Release notes](https://github.com/aws/aws-sdk-go-v2/releases)\n- [Commits](https://github.com/aws/aws-sdk-go-v2/compare/service/s3/v1.109.0...service/s3/v1.111.0)\n\n---\nupdated-dependencies:\n- dependency-name: github.com/99designs/gqlgen\n  dependency-version: 0.17.95\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2\n  dependency-version: 1.46.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/config\n  dependency-version: 1.33.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/credentials\n  dependency-version: 1.20.3\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/feature/rds/auth\n  dependency-version: 1.7.2\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/service/lambda\n  dependency-version: 1.107.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/aws/aws-sdk-go-v2/service/s3\n  dependency-version: 1.111.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n- dependency-name: github.com/vektah/gqlparser/v2\n  dependency-version: 2.5.37\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n  dependency-group: other\n- dependency-name: golang.org/x/sync\n  dependency-version: 0.23.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n  dependency-group: other\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\n\n* run gql gen with bumped version\n\n---------\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/9920eb453c668938a00194105b821085f84cc127",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T16:20:47+00:00"
+          },
+          {
+            "message": "[Feature/MINT-3535] Subject Area in Discussions (#2429)\n\n* init\n\n* new enums, migration, go/gql types, and update existing queries. minor UI work for lint purposes\n\n* update tests, resolver flow, translation for new field\n\n* fix tests, move sqlqueries to newer package\n\n* also move final outdated sql query location to newer package\n\n* add to bruno queries, UI queries, and tests\n\n* fix issue where we can send `topic` in the reply flow, which does not need it\n\n* update migration to remove default\n\n* bump to 1.001 instead of 1 for `topic` order in translation\n\n* better naming\n\n* add infra, update plan discussion tagged user flow first for testing\n\n* add to solution tagged flow\n\n* add topic to discussion reply created originator email flow\n\n* add topic to New plan discussion created email flow\n\n* merge and bump sql num\n\n* add topics to discussion\n\n* add tests\n\n* filter out Waiver assessment survey\n\n* wip\n\n* add discussion topic to change history\n\n* change translation to match figma\n\n* Prefill discussion topic from the current section and show it on replies.\n\n* make the util file more condense\n\n* change mappings to match figma\n\n* consolidate discussion form validation check\n\n* Replaced loose includes() with anchored regexes under /collaboration-area/... in getDefaultDiscussionTopicFromPath.ts.\n\n* Pass parent discussion topic explicitly in reply form.\n\nReplace 'topic' in reply checks by adding parentDiscussionTopic prop and narrowing reply state to DiscussionType.\n\n* add topic to discussions in single discussions\n\n* fixing lint\n\n* addressing lint\n\n* fixing notification cypress test\n\n* fix lint\n\n* bump sql nums\n\n* adjusting spacing\n\n* Persist Assessment job code on user_account so Change History can tell actors from teammates.\n\nStore is_assessment at login and expose TranslatedAudit.isAssessment when the actor is Assessment and not a collaborator. gqlgen regeneration is included for the new field.\n\n* adding isAssessment to the sql files\n\n* passing the isAssessment into the avataricon\n\n* gqlcode gen\n\n* adding some migration\n\n* a bunch of tests\n\n* rename version number\n\n* go lint\n\n* change isAssessment to be more explicit isAssessmentNotCollaborator\n\n* Revert Change History Assessment star / user_account is_assessment work.\n\n---------\n\nCo-authored-by: Sam Lawson <samlawson@Sam-Lawson-MacBook-Pro.local>\nCo-authored-by: Gary Zhao <gary.j.zhao@gmail.com>\nCo-authored-by: Gary Zhao <garyjzhao@users.noreply.github.com>\nCo-authored-by: Steven Wade <99294987+StevenWadeOddball@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/5d7f09d1ae5cd6925d239b61750bdf53854c7b73",
+            "author": "samoddball",
+            "created_at": "2026-09-08T14:54:49+00:00"
+          },
+          {
+            "message": "Build(deps): bump @tiptap/core from 2.27.1 to 3.30.4 (#2498)\n\n* Build(deps): bump @tiptap/core from 2.27.1 to 3.30.4\n\nBumps [@tiptap/core](https://github.com/ueberdosis/tiptap/tree/HEAD/packages/core) from 2.27.1 to 3.30.4.\n- [Release notes](https://github.com/ueberdosis/tiptap/releases)\n- [Changelog](https://github.com/ueberdosis/tiptap/blob/v3.30.4/packages/core/CHANGELOG.md)\n- [Commits](https://github.com/ueberdosis/tiptap/commits/v3.30.4/packages/core)\n\n---\nupdated-dependencies:\n- dependency-name: \"@tiptap/core\"\n  dependency-version: 3.30.4\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>\n\n* Bump all @tiptap packages to v3 to match core\n\n---------\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>\nCo-authored-by: Peyton T <peyton.t131@gmail.com>\nCo-authored-by: Peyton232 <peyton.thibodeaux@oddball.io>",
+            "url": "https://github.com/CMS-Enterprise/mint-app/commit/eee531940a61d81a288222990a5cb6b85789dcf2",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-08T14:10:50+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "batcave-tf-gatus",
+        "url": "https://github.com/CMS-Enterprise/batcave-tf-gatus",
+        "description": "batCAVE Gatus Terraform module",
+        "archived": true,
+        "topics": [
+          "aws-efs",
+          "aws-fargate",
+          "batcave",
+          "gatus",
+          "terraform",
+          "terraform-module"
+        ],
+        "issues": [],
+        "pulls": [],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [
+          {
+            "version": "3.0.0",
+            "date": "2022-10-05",
+            "changes": [
+              {
+                "category": "Added",
+                "items": [
+                  "Changelog",
+                  "pre-commit"
+                ]
+              }
+            ]
+          }
+        ],
+        "releases": []
+      },
+      {
+        "name": "ztmf",
+        "url": "https://github.com/CMS-Enterprise/ztmf",
+        "description": "Zero Trust Maturity scoring tool",
+        "archived": false,
+        "topics": [],
+        "issues": [
+          {
+            "title": "Reject duplicate system acronyms within an OpDiv",
+            "url": "https://github.com/CMS-Enterprise/ztmf/issues/587",
+            "created_at": "2026-09-10T20:15:28+00:00",
+            "state": "open",
+            "author": "danielbowne",
+            "is_new": true
+          },
+          {
+            "title": "Renew TLS Certs",
+            "url": "https://github.com/CMS-Enterprise/ztmf/issues/578",
+            "created_at": "2026-09-03T15:54:49+00:00",
+            "state": "open",
+            "author": "eschwein-usds",
+            "is_new": false
+          },
+          {
+            "title": "Make ZTMF PQC Ready",
+            "url": "https://github.com/CMS-Enterprise/ztmf/issues/572",
+            "created_at": "2026-08-27T20:50:12+00:00",
+            "state": "open",
+            "author": "eschwein-usds",
+            "is_new": false
+          }
+        ],
+        "pulls": [
+          {
+            "title": "feat(misc#341): per-PR environment Terraform root and the /pr/* edge behavior",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/586",
+            "created_at": "2026-09-10T16:28:12+00:00",
+            "updated_at": "2026-09-10T19:57:15+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "Assert the SYSTEM_DELEGATE recipient set, not just a 201",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/585",
+            "created_at": "2026-09-10T16:06:45+00:00",
+            "updated_at": "2026-09-10T16:06:46+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "jsos3-cms",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#340): serialize deploy workflows and protect deployable images from pr-* churn",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/584",
+            "created_at": "2026-09-10T14:23:07+00:00",
+            "updated_at": "2026-09-10T19:57:14+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#339): add a test image target that bakes the empire seed",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/583",
+            "created_at": "2026-09-10T14:14:20+00:00",
+            "updated_at": "2026-09-10T19:59:01+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#339): add a test image target that bakes the empire seed",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/582",
+            "created_at": "2026-09-10T14:06:09+00:00",
+            "updated_at": "2026-09-10T14:14:37+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "Nightly sync: main -> impl (2026-09-10)",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/581",
+            "created_at": "2026-09-10T07:27:13+00:00",
+            "updated_at": "2026-09-10T07:27:13+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "jsos3-cms",
+            "is_new": true
+          },
+          {
+            "title": "fix(misc#297): add the READONLY_ADMIN mass-email group and widen massemails.group",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/580",
+            "created_at": "2026-09-09T14:34:02+00:00",
+            "updated_at": "2026-09-09T23:00:50+00:00",
+            "merged_at": "2026-09-09T23:00:48+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "chore(ci): bump the github-actions group with 2 updates",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/579",
+            "created_at": "2026-09-07T15:10:33+00:00",
+            "updated_at": "2026-09-09T23:27:11+00:00",
+            "merged_at": "2026-09-09T23:27:09+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "chore(misc#351): frontend-env writes the auth token to public/config.js",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/575",
+            "created_at": "2026-09-01T17:17:32+00:00",
+            "updated_at": "2026-09-09T23:20:04+00:00",
+            "merged_at": "2026-09-09T23:20:02+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": false
+          },
+          {
+            "title": "Nightly sync: main -> impl (2026-08-28)",
+            "url": "https://github.com/CMS-Enterprise/ztmf/pull/573",
+            "created_at": "2026-08-28T10:51:27+00:00",
+            "updated_at": "2026-09-09T23:15:01+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "jsos3-cms",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "chore(ci): bump the github-actions group with 2 updates (#579)\n\nBumps the github-actions group with 2 updates:\n[terraform-linters/setup-tflint](https://github.com/terraform-linters/setup-tflint)\nand\n[aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials).\n\nUpdates `terraform-linters/setup-tflint` from 6.3.0 to 6.3.1\n<details>\n<summary>Release notes</summary>\n<p><em>Sourced from <a\nhref=\"https://github.com/terraform-linters/setup-tflint/releases\">terraform-linters/setup-tflint's\nreleases</a>.</em></p>\n<blockquote>\n<h2>v6.3.1</h2>\n<!-- raw HTML omitted -->\n<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Build dist on release instead of committing it to master by <a\nhref=\"https://github.com/bendrucker\"><code>@\u200bbendrucker</code></a> in <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/447\">terraform-linters/setup-tflint#447</a></li>\n</ul>\n<h3>Dependencies</h3>\n<ul>\n<li>build(deps-dev): Bump the eslint group across 1 directory with 7\nupdates by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/457\">terraform-linters/setup-tflint#457</a></li>\n<li>build(deps): Bump actions/setup-node from 6.4.0 to 7.0.0 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/458\">terraform-linters/setup-tflint#458</a></li>\n<li>build(deps): Bump actions/checkout from 6.0.2 to 7.0.1 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/459\">terraform-linters/setup-tflint#459</a></li>\n<li>build(deps-dev): Bump <code>@\u200bhumanfs/node</code> from 0.16.6 to\n0.16.8 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/463\">terraform-linters/setup-tflint#463</a></li>\n<li>build(deps-dev): Bump browserslist from 4.28.2 to 4.28.8 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/464\">terraform-linters/setup-tflint#464</a></li>\n<li>build(deps-dev): Bump prettier from 3.8.3 to 3.9.6 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/455\">terraform-linters/setup-tflint#455</a></li>\n<li>build(deps-dev): Bump globals from 17.5.0 to 17.11.0 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/454\">terraform-linters/setup-tflint#454</a></li>\n<li>build(deps): Bump actions/cache from 5.0.5 to 6.1.0 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/450\">terraform-linters/setup-tflint#450</a></li>\n<li>build(deps): Bump undici from 6.24.0 to 6.28.0 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/456\">terraform-linters/setup-tflint#456</a></li>\n<li>build(deps-dev): Bump brace-expansion from 1.1.13 to 1.1.18 by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/465\">terraform-linters/setup-tflint#465</a></li>\n<li>build(deps): Bump <code>@\u200bactions/cache</code> from 6.0.1 to 6.2.0\nin the actions group across 1 directory by <a\nhref=\"https://github.com/dependabot\"><code>@\u200bdependabot</code></a>[bot]\nin <a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/pull/451\">terraform-linters/setup-tflint#451</a></li>\n</ul>\n<p><strong>Full Changelog</strong>: <a\nhref=\"https://github.com/terraform-linters/setup-tflint/compare/v6.3.0...v6.3.1\">https://github.com/terraform-linters/setup-tflint/compare/v6.3.0...v6.3.1</a></p>\n</blockquote>\n</details>\n<details>\n<summary>Commits</summary>\n<ul>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/1cf010d3c7aef302051ccdb68c14c5dc2efa34ef\"><code>1cf010d</code></a>\nRelease v6.3.1</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/7d1a4fffc61fa34a7448ad8d91a6aa64cccf6764\"><code>7d1a4ff</code></a>\nbuild(deps): Bump <code>@\u200bactions/cache</code> in the actions group\nacross 1 directory (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/451\">#451</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/1db284159cbed99dacdbd13359fb79057a572d91\"><code>1db2841</code></a>\nbuild(deps-dev): Bump brace-expansion from 1.1.13 to 1.1.18 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/465\">#465</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/a87802ed8b3d0085978a2a1e8fdaf903a8eeb216\"><code>a87802e</code></a>\nbuild(deps): Bump undici from 6.24.0 to 6.28.0 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/456\">#456</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/bf78bc1c4058e8c7ac027596aa0bca02ad8b0a9b\"><code>bf78bc1</code></a>\nbuild(deps): Bump actions/cache from 5.0.5 to 6.1.0 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/450\">#450</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/0e90682785121c1789d948a6ea8da941beecbadd\"><code>0e90682</code></a>\nbuild(deps-dev): Bump globals from 17.5.0 to 17.11.0 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/454\">#454</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/2e3e73f9f031d87cee574f2e82973a38a33fc369\"><code>2e3e73f</code></a>\nbuild(deps-dev): Bump prettier from 3.8.3 to 3.9.6 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/455\">#455</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/c2c09245628fd3cf3790ea5b5ce1eddd15ca261e\"><code>c2c0924</code></a>\nBuild dist on release instead of committing it to master (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/447\">#447</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/cd824714eaa30e35352ff29ab7e24a4c50089cea\"><code>cd82471</code></a>\nbuild(deps-dev): Bump browserslist from 4.28.2 to 4.28.8 (<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/464\">#464</a>)</li>\n<li><a\nhref=\"https://github.com/terraform-linters/setup-tflint/commit/b1e96471b81b9e8bdabe7df3f214b344c99844f6\"><code>b1e9647</code></a>\nbuild(deps-dev): Bump <code>@\u200bhumanfs/node</code> from 0.16.6 to 0.16.8\n(<a\nhref=\"https://redirect.github.com/terraform-linters/setup-tflint/issues/463\">#463</a>)</li>\n<li>Additional commits viewable in <a\nhref=\"https://github.com/terraform-linters/setup-tflint/compare/6e1e0642c0289bd619021bf6b34e3c08ed1e005a...1cf010d3c7aef302051ccdb68c14c5dc2efa34ef\">compare\nview</a></li>\n</ul>\n</details>\n<br />\n\nUpdates `aws-actions/configure-aws-credentials` from 6.2.3 to 6.2.4\n<details>\n<summary>Release notes</summary>\n<p><em>Sourced from <a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/releases\">aws-actions/configure-aws-credentials's\nreleases</a>.</em></p>\n<blockquote>\n<h2>v6.2.4</h2>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.3...v6.2.4\">6.2.4</a>\n(2026-08-31)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>account-ids handling, mask proxy as secret in logs (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1943\">#1943</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/aa6526434b08748f8776b29964e3f1f5d90e7b63\">aa65264</a>)</li>\n<li>skip backoff sleep after the final retryAndBackoff attempt (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1937\">#1937</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/3852440c21363386b7b790605685d08a7c1a4876\">3852440</a>)</li>\n</ul>\n</blockquote>\n</details>\n<details>\n<summary>Changelog</summary>\n<p><em>Sourced from <a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/blob/main/CHANGELOG.md\">aws-actions/configure-aws-credentials's\nchangelog</a>.</em></p>\n<blockquote>\n<h1>Changelog</h1>\n<p>All notable changes to this project will be documented in this file.\nSee <a\nhref=\"https://github.com/conventional-changelog/standard-version\">standard-version</a>\nfor commit guidelines.</p>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.3...v6.2.4\">6.2.4</a>\n(2026-08-31)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>account-ids handling, mask proxy as secret in logs (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1943\">#1943</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/aa6526434b08748f8776b29964e3f1f5d90e7b63\">aa65264</a>)</li>\n<li>skip backoff sleep after the final retryAndBackoff attempt (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1937\">#1937</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/3852440c21363386b7b790605685d08a7c1a4876\">3852440</a>)</li>\n</ul>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.2...v6.2.3\">6.2.3</a>\n(2026-07-22)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>attach git credentials before Tag Major Version push (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1877\">#1877</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/9ae780b171afa8c5a3a6a2d154a765b709492482\">9ae780b</a>)</li>\n<li>PackedPolicyTooLarge detection in STS tags (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1899\">#1899</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/fa8d6a57bbf44b34439fb080bbdadc7c92c285eb\">fa8d6a5</a>)</li>\n</ul>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.1...v6.2.2\">6.2.2</a>\n(2026-07-07)</h2>\n<h3>Miscellaneous Chores</h3>\n<ul>\n<li>release 6.2.2 (<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/d01d678e65d6d2bd9d5ca7a95d6f07b00e25f2c2\">d01d678</a>)</li>\n</ul>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.2.0...v6.2.1\">6.2.1</a>\n(2026-06-26)</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>enforce allowed-account-ids on all auth paths (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1847\">#1847</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/4d281fbc56a82e63c3fc14f2cc22361f34c97493\">4d281fb</a>)</li>\n</ul>\n<h2><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/v6.1.3...v6.2.0\">6.2.0</a>\n(2026-06-01)</h2>\n<h3>Features</h3>\n<ul>\n<li>add additional session tags by default (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1775\">#1775</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/e0ba7685077379a14a82d01fefd511490344ebfc\">e0ba768</a>)</li>\n<li>add more retry logic and better logging (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1764\">#1764</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/540d0c13aedb8d55501d220bd2f0b3cdedfe84e8\">540d0c1</a>)</li>\n<li>add regex validation to role-session-name (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1765\">#1765</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/e35449909c6ede5083a48ba4b8bbfaaa1cf09ba1\">e354499</a>)</li>\n<li>Allow custom session tags to be passed when assuming a role (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1759\">#1759</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/61f50f630f383628add73c1eab3f1935ba07da2b\">61f50f6</a>)</li>\n<li>expose run id in STS client user-agent (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1774\">#1774</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/29d1be30273e7ef371d59fccf6ec54572c64ec89\">29d1be3</a>)</li>\n<li>support custom STS endpoints (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1762\">#1762</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/8d52d05d7a4521fa52b39de50cb6114b12e5c332\">8d52d05</a>)</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>skip credential check on output-env-credentials: false (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1778\">#1778</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/58e7c47adf77846879008deadfeeef8a6969fe6c\">58e7c47</a>)</li>\n<li>assumeRole failing from session tag size too large (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1808\">#1808</a>)\n(<a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/d6f5dc331b44474b19a52caaf85fa4d637b13c8e\">d6f5dc3</a>)</li>\n</ul>\n<!-- raw HTML omitted -->\n</blockquote>\n<p>... (truncated)</p>\n</details>\n<details>\n<summary>Commits</summary>\n<ul>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/cbe3b392738ccf3f987d68400dafcf4b0624a56c\"><code>cbe3b39</code></a>\nchore(main): release 6.2.4 (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1942\">#1942</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/58065db07c99675fc21675188b003b7f0b167004\"><code>58065db</code></a>\nchore(deps): bump js-yaml (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1944\">#1944</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/609df23709e359dc01a42b4c5183ba71167ac38c\"><code>609df23</code></a>\nchore: Update dist</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/aa6526434b08748f8776b29964e3f1f5d90e7b63\"><code>aa65264</code></a>\nfix: account-ids handling, mask proxy as secret in logs (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1943\">#1943</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/7fdbbb8968c49fb55011ace47efc7b0ccfc9a28f\"><code>7fdbbb8</code></a>\nchore: Update dist</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/3852440c21363386b7b790605685d08a7c1a4876\"><code>3852440</code></a>\nfix: skip backoff sleep after the final retryAndBackoff attempt (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1937\">#1937</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/c16f89bdf4cd065448ea7bde8b96a1dad4c77e41\"><code>c16f89b</code></a>\nmention renamed repos use the new immutable identifiers (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1941\">#1941</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/9c362eeba7ac7d0419073a8b4af5a83e49e2afaf\"><code>9c362ee</code></a>\nchore: Update dist</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/d5f8da8822f961cd3016c2cf87aad7e80b40558e\"><code>d5f8da8</code></a>\nchore(deps): bump <code>@\u200baws-sdk/client-sts</code> from 3.1111.0 to\n3.1116.0 (<a\nhref=\"https://redirect.github.com/aws-actions/configure-aws-credentials/issues/1935\">#1935</a>)</li>\n<li><a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/commit/2db24970cf129d7ff6fc04639072bcbe35f8c288\"><code>2db2497</code></a>\nchore: Update dist</li>\n<li>Additional commits viewable in <a\nhref=\"https://github.com/aws-actions/configure-aws-credentials/compare/e6de054238d6b7531b4efff3b6587d9aade6a06c...cbe3b392738ccf3f987d68400dafcf4b0624a56c\">compare\nview</a></li>\n</ul>\n</details>\n<br />\n\n\nDependabot will resolve any conflicts with this PR as long as you don't\nalter it yourself. You can also trigger a rebase manually by commenting\n`@dependabot rebase`.\n\n[//]: # (dependabot-automerge-start)\n[//]: # (dependabot-automerge-end)\n\n---\n\n<details>\n<summary>Dependabot commands and options</summary>\n<br />\n\nYou can trigger Dependabot actions by commenting on this PR:\n- `@dependabot rebase` will rebase this PR\n- `@dependabot recreate` will recreate this PR, overwriting any edits\nthat have been made to it\n- `@dependabot show <dependency name> ignore conditions` will show all\nof the ignore conditions of the specified dependency\n- `@dependabot ignore <dependency name> major version` will close this\ngroup update PR and stop Dependabot creating any more for the specific\ndependency's major version (unless you unignore this specific\ndependency's major version or upgrade to it yourself)\n- `@dependabot ignore <dependency name> minor version` will close this\ngroup update PR and stop Dependabot creating any more for the specific\ndependency's minor version (unless you unignore this specific\ndependency's minor version or upgrade to it yourself)\n- `@dependabot ignore <dependency name>` will close this group update PR\nand stop Dependabot creating any more for the specific dependency\n(unless you unignore this specific dependency or upgrade to it yourself)\n- `@dependabot unignore <dependency name>` will remove all of the ignore\nconditions of the specified dependency\n- `@dependabot unignore <dependency name> <ignore condition>` will\nremove the ignore condition of the specified dependency and ignore\nconditions\n\n\n</details>\n\nSigned-off-by: dependabot[bot] <support@github.com>\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+            "url": "https://github.com/CMS-Enterprise/ztmf/commit/4a069fea27361d7a0015718186509e1153310212",
+            "author": "dependabot[bot]",
+            "created_at": "2026-09-09T23:27:08+00:00"
+          },
+          {
+            "message": "chore(misc#351): frontend-env writes the auth token to public/config.js (#575)\n\n## What\n\nUpdates `make frontend-env` for CMS-Enterprise/ztmf-ui#722\n(ztmf-misc#351): the local auth-bypass token now lands in\n`ztmf-ui/public/config.js`, read by the app at runtime, instead of\n`VITE_AUTH_TOKEN3` in `.env.development.local`, which nothing reads once\n#722 is in. The env file keeps the vite proxy settings\n(`VITE_CF_DOMAIN`, `VITE_IDP_ENABLED`); the retired `VITE_LOCAL_DEV`\nflag is no longer written. Token generation is unchanged.\n\n## Merge order\n\nLanded after CMS-Enterprise/ztmf-ui#722 (merged 2026-09-08). The order\nmattered for safety, not convenience: #722 is what gitignores\n`public/config.js`, and `public/` is tracked, so on the old ui main this\ntarget would have left a live admin JWT untracked and unignored, one\n`git add -A` from a public commit. It would also have broken local-dev\nauth for anyone still on the env token.\n\n## Verification\n\n`make frontend-env` emits both files, and the generated token\nauthenticates against the local dev API (200 on `/api/v1/users/current`,\n401 without it). No Go changes; the full local suite runs via the\npre-push hook.",
+            "url": "https://github.com/CMS-Enterprise/ztmf/commit/7d75e7ba3b2e5c08d3a62e5371a0a6928aaa00f4",
+            "author": "cameron testerman",
+            "created_at": "2026-09-09T23:20:01+00:00"
+          },
+          {
+            "message": "fix(misc#297): add the READONLY_ADMIN mass-email group and widen massemails.group (#580)\n\nCloses CMS-Enterprise/ztmf-misc#297. Closes CMS-Enterprise/ztmf-ui#653,\nwhich reports the same 400 from the frontend side.\n\nThe EmailModal offers READONLY_ADMIN as a recipient group but\nmassEmailGroups had no such key, so the request failed validation.\nMack's call on the ticket was to add the backend group rather than drop\nthe option, since read-only admins are a small but distinct cohort at\nCMS and likely at other OpDivs.\n\nThis adds a READONLY_ADMIN selector covering HHS_READONLY_ADMIN and\nOPDIV_READONLY_ADMIN, mirroring how ADMIN covers the write tiers. ALL\nstill excludes every admin tier.\n\nWhile wiring it up I found that massemails.\"group\" was still the\nVARCHAR(5) from migration 0011, so Save rejects any key longer than five\ncharacters before recipients are resolved. SYSTEM_DELEGATE (15 chars)\nhits this today and returns 500; I confirmed it against a clean dev\nstack. Migration 0059 widens the column to VARCHAR(30), the same width\nusers.role got in 0035, so READONLY_ADMIN and SYSTEM_DELEGATE both save.\nI also ran 0059 against a populated dev DB to check the upgrade path,\nnot just a fresh schema.\n\nBehavior changes: POST /massemails with group READONLY_ADMIN goes from\n400 to 201 and emails the read-only admin tiers. Group SYSTEM_DELEGATE\ngoes from 500 to 201. No API shape changes, openapi.yaml regenerates\nwith no drift.\n\nTests: unit tests pin that every group key fits the widened column and\nthat the READONLY_ADMIN query names exactly the two read-only roles.\nIntegration tests round-trip every key through Save (the check that\nwould have caught the width cap) and assert the READONLY_ADMIN audience\nagainst the empire seed. Emberfall gains 201 cases for READONLY_ADMIN\nand SYSTEM_DELEGATE; the test stack has no SMTP so the send goroutine\nlogs a dial error and nothing leaves.\n\nGate: make test-unit, make test-integration, and make test-e2e (221\npassed, 0 failed) all green locally.\n\nNot changed here: none of the role-based recipient queries filter\ndeleted users, so a deactivated admin or delegate still receives mail.\nThat predates this change and applies to every group, so I will file it\nseparately. Any service account carrying HHS_READONLY_ADMIN will be in\nthe READONLY_ADMIN audience.",
+            "url": "https://github.com/CMS-Enterprise/ztmf/commit/7d97cc95987f5e998d5a9ea61f3edcff07103771",
+            "author": "cameron testerman",
+            "created_at": "2026-09-09T23:00:47+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "batcave-workflow-engine",
+        "url": "https://github.com/CMS-Enterprise/batcave-workflow-engine",
+        "description": "batCAVE workflow engine",
+        "archived": true,
+        "topics": [
+          "batcave",
+          "cicd",
+          "golang"
+        ],
+        "issues": [],
+        "pulls": [],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [
+          {
+            "version": "unknown",
+            "date": null,
+            "changes": [
+              {
+                "category": "Added",
+                "items": [
+                  "GitHub action auth support",
+                  "settings package for config and metaconfig values",
+                  "settings package marshalling / unmarshalling",
+                  "Grype Image Scan Task",
+                  "Task pattern instead of pipeline pattern for simplicity Note: currently the new experimental is behind a build flag",
+                  "Image vulnerability scan task",
+                  "Image antivirus scan",
+                  "Image build",
+                  "Snyk SAST Scan"
+                ]
+              },
+              {
+                "category": "Changed",
+                "items": [
+                  "Upgrade omnibus base image to v1.5.1",
+                  "Move existing CLI package to v0",
+                  "Task Run pattern"
+                ]
+              },
+              {
+                "category": "Changed",
+                "items": [
+                  "refactored CLI for readability and maintenance",
+                  "upgraded to go 1.22.0",
+                  "New Executable will default inputs and outputs to OS",
+                  "WithStdin, WithStdout, WithStderr all merged to WithIO",
+                  "Config syntax to correlated with pipelines",
+                  "Code Scan Run organization to use functions for simplicity",
+                  "Add multi writer for Gatecheck list",
+                  "async run execution for image scan pipeline",
+                  "moved shell package to legacy",
+                  "image scan execution flow",
+                  "docker build argument strategy for shell",
+                  "shell command errors instead of exit codes",
+                  "shell command rich errors",
+                  "async task wraps stderr for cleaner log output",
+                  "Limit the number of supported Github action fields"
+                ]
+              },
+              {
+                "category": "Added",
+                "items": [
+                  "Configuration File template rendering with built-in values",
+                  "Configuration conversions",
+                  "Configuration init with the format option",
+                  "Semgrep, osemgrep, gitleaks shell commands",
+                  "Code Scan Pipeline",
+                  "Config Template auto rendering",
+                  "Version Command",
+                  "All commands will defer to viper for arguments and defaults",
+                  "no push flag to image publish",
+                  "Gatecheck Shell Command",
+                  "pipeline helper functions for common file operations",
+                  "Oras Command",
+                  "Deploy pipeline validation only (beta feature)",
+                  "clamscan & freshclam for virus scanning",
+                  "command run with context",
+                  "command run with IO",
+                  "grype CMD",
+                  "async task object",
+                  "\"Combo\" pipelines for image-delivery and all pipelines",
+                  "GitHub Actions Code Generation"
+                ]
+              },
+              {
+                "category": "Fixed",
+                "items": [
+                  "Viper config key names",
+                  "Specified CLI command parameters for custom input and output for easier unit testing in the future"
+                ]
+              }
+            ]
+          },
+          {
+            "version": "0.0.1",
+            "date": "2024-01-29",
+            "changes": [
+              {
+                "category": "Changed",
+                "items": [
+                  "refactored, the directory structure, all pipelines will exist in pkg/pipelines",
+                  "updated Version commands to return Commands instead of just an error",
+                  "simplified Command Methods",
+                  "converted some Command to private to prevent auto-complete overload",
+                  "the way command dry running is called, uses builder pattern now",
+                  "remove args from wrapper functions in CLI"
+                ]
+              },
+              {
+                "category": "Added",
+                "items": [
+                  "debugging flag",
+                  "pkg/shell/commands Runner interface",
+                  "pkg/shell/commands Command struct",
+                  "pkg/shell for command wrappers",
+                  "grype version",
+                  "syft version",
+                  "podman version",
+                  "docker / podman support via CLI cmd interface",
+                  "docker info",
+                  "image build pipeline (info only)",
+                  "docker info, build, and push commands",
+                  "internal logger to image build pipeline",
+                  "json, yaml, toml meta tags for pipelines/config",
+                  "config parsing with viper",
+                  "grype scan sbom command",
+                  "image-scan pipeline",
+                  "syft scan image command",
+                  "syft to image-scan pipeline",
+                  "image scan pipeline to CLI",
+                  "image scan pipeline wiring in CLI for Viper config variables"
+                ]
+              },
+              {
+                "category": "Added",
+                "items": [
+                  "cmd/workflow-engine for cli",
+                  "pkg/environments",
+                  "pkg/jobs",
+                  "pkg/pipelines",
+                  "pkg/system",
+                  "initial project structure"
+                ]
+              }
+            ]
+          }
+        ],
+        "releases": []
+      },
+      {
+        "name": "ztmf-ui",
+        "url": "https://github.com/CMS-Enterprise/ztmf-ui",
+        "description": "UI specific repository for the ZTMF Scoring Dashboard",
+        "archived": false,
+        "topics": [],
+        "issues": [
+          {
+            "title": "Component field should be optional for non-CMS OpDivs",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/issues/733",
+            "created_at": "2026-09-10T20:19:31+00:00",
+            "state": "open",
+            "author": "danielbowne",
+            "is_new": true
+          },
+          {
+            "title": "Route the questionnaire by system id instead of acronym",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/issues/732",
+            "created_at": "2026-09-10T20:19:27+00:00",
+            "state": "open",
+            "author": "danielbowne",
+            "is_new": true
+          },
+          {
+            "title": "Email Users: the READONLY_ADMIN group option always fails with a 400",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/issues/653",
+            "created_at": "2026-07-31T20:54:05+00:00",
+            "state": "closed",
+            "author": "costacalvin",
+            "is_new": false
+          },
+          {
+            "title": "A. Introduce a data-fetching hook layer over axiosInstance",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/issues/619",
+            "created_at": "2026-07-27T15:55:39+00:00",
+            "state": "closed",
+            "author": "voidspooks",
+            "is_new": false
+          }
+        ],
+        "pulls": [
+          {
+            "title": "hotfix(misc#386): carry the system id from System Info to the questionnaire and refuse ambiguous acronyms",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/734",
+            "created_at": "2026-09-10T20:31:36+00:00",
+            "updated_at": "2026-09-10T21:09:29+00:00",
+            "merged_at": "2026-09-10T20:59:36+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "fix(misc#382): percent-encode the acronym in questionnaire URLs",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/731",
+            "created_at": "2026-09-10T17:54:19+00:00",
+            "updated_at": "2026-09-10T23:51:07+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "costacalvin",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#343): nginx image for PR environments",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/730",
+            "created_at": "2026-09-10T16:00:07+00:00",
+            "updated_at": "2026-09-10T19:55:20+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#340): serialize deploy workflows with concurrency groups",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/729",
+            "created_at": "2026-09-10T14:25:24+00:00",
+            "updated_at": "2026-09-11T00:11:16+00:00",
+            "merged_at": "2026-09-11T00:11:13+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "Nightly sync: main -> impl (2026-09-10)",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/728",
+            "created_at": "2026-09-10T07:29:54+00:00",
+            "updated_at": "2026-09-10T07:29:54+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "jsos3-cms",
+            "is_new": true
+          },
+          {
+            "title": "Introduce tanstack query for datafetching",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/727",
+            "created_at": "2026-09-09T20:45:45+00:00",
+            "updated_at": "2026-09-11T00:29:40+00:00",
+            "merged_at": "2026-09-11T00:29:38+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "tarratsco",
+            "is_new": true
+          },
+          {
+            "title": "test(misc#297): pin the READONLY_ADMIN email group option and its posted key",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/726",
+            "created_at": "2026-09-09T14:34:05+00:00",
+            "updated_at": "2026-09-09T23:14:39+00:00",
+            "merged_at": "2026-09-09T23:14:37+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": true
+          },
+          {
+            "title": "chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/725",
+            "created_at": "2026-09-07T07:23:59+00:00",
+            "updated_at": "2026-09-07T07:24:00+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "feat(misc#351): make the bundle path-agnostic and move the local-dev token to runtime config",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/722",
+            "created_at": "2026-09-01T15:44:22+00:00",
+            "updated_at": "2026-09-08T14:14:45+00:00",
+            "merged_at": "2026-09-08T14:14:42+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "voidspooks",
+            "is_new": false
+          },
+          {
+            "title": "Nightly sync: main -> impl (2026-08-28)",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/pull/719",
+            "created_at": "2026-08-28T10:56:45+00:00",
+            "updated_at": "2026-09-09T23:25:47+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "jsos3-cms",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "Introduce tanstack query for datafetching (#727)\n\n* feat(query): configure TanStack Query and application providers\n\nInstall TanStack Query and its development tools, then add a shared\nQueryClient configured with a one-minute stale time, one retry, and no\nwindow-focus refetching.\n\nWrap the application with QueryClientProvider and expose the closed-by-\ndefault devtools only in development builds. Extend the shared test\nrenderer with a fresh no-retry client per render so cached server state\ncannot leak between tests, and cover the application query defaults.\n\n* refactor(api): centralize endpoint paths and query keys\n\nAdd canonical API path factories for every Axios endpoint so dynamic routes, query variants, and leading-slash conventions live in one place. Replace raw endpoint strings across views, utilities, auth flows, downloads, and mutations without altering their transport, cancellation, error handling, or `skipAuthHandling` behavior.\n\nAdd hierarchical TanStack Query keys that preserve response-shaping parameters and provide stable list and detail prefixes for cache invalidation. Centralize repeated score, export, and system-resource URL construction, and update affected tests to assert against the shared path factories.\n\n* fix(query): retry only transient failures, never a 4xx\n\nThe blanket retry: 1 retried definitive server answers, and 401 was the\nsharp case: the Axios interceptor reacts to it by navigating to the\nlogin flow, so the retry fired a second doomed request into the\ninterceptor while that redirect was already underway. It also meant the\nenrichment endpoint's expected 403/404 answers would each fire twice.\n\nThe default is now a function: one retry for network errors, non-Axios\nerrors and 5xx responses, where the next attempt can genuinely succeed;\nno retries for any response below 500, which is the server saying\nsomething rather than failing to answer.\n\n* docs(api): record the URL-joining and encoding constraints in keys\n\nTwo facts a future reader needs before touching this module. The\nleading-slash paths are safe only because Axios joins baseURL and path\nby string concatenation; fetch or new URL semantics would resolve them\nagainst the origin and silently drop /api/v1. And withQuery encodes\nspaces as + where Axios params would write %20, which agrees today only\nbecause no current parameter carries a space.\n\n* build: fail production builds that bundle the query devtools\n\nThe devtools-absent-from-production contract cannot be a Jest test:\nimport.meta.env.DEV and NODE_ENV substitution happen at build time, so\na unit test only ever sees the development branch. This check runs\nafter vite build --mode production and greps the emitted bundles for\nmarkers only the devtools carry.\n\nVerified in both directions. The current build passes. Deleting the\nmain.tsx DEV gate alone does NOT trip it, because the package's main\nentry already exports a no-op outside development; what does trip it,\nexit 1, is importing the deliberate always-on\n@tanstack/react-query-devtools/production entry, which is the realistic\nway devtools would ever reach production.\n\n* docs(keys): clarify URL encoding behavior in query parameters\n\n* refactor(system-detail): fetch enrichment data with TanStack Query\n\nReplace SystemEnrichmentCard's hand-written request effect and local loading, error, and response state with useQuery. Key enrichment reads by FISMA UID, forward Query's cancellation signal to Axios, and flatten the pipeline response envelope before exposing it to the existing card rendering.\n\nPreserve the request-local auth bypass and existing UI behavior: 403 and 404 remain quiet empty states, unexpected failures retain the failed-load message, and the ISSO update PUT remains imperative. Extend the component tests to verify skipAuthHandling and cancellation when the query unmounts.\n\n* feat(query): standardize error handling and document data fetching\n\nAdd a shared QueryCache error callback that suppresses interceptor-handled auth errors, cancellations, unobserved requests, and queries with inline error states. Normalize other query failures through `parseApiError` and `notify` once, with duplicate prevention keyed by the query hash.\n\nExpose a `QueryClient` factory so production and component tests share the same cache behavior while tests can disable retries. Add integration coverage for a 401 raised inside a query function, including redirect behavior, retry suppression, and protection against duplicate toasts. Pin `skipAuthHandling` at all five sanctioned call sites.\n\nDocument query-key conventions, cancellation, invalidation, query and mutation usage, Axios interoperability, and session-bootstrap exceptions. Fix formatting in the production devtools assertion script.\n\n* fix(query): address review findings on data-fetching migration\n\nTanStack Query retains the last successful `data` payload when a background refetch fails, populating `error` at the same time. `SystemEnrichmentCard` evaluated `error` in isolation, replacing populated Insights panels with red error text during failed refreshes. While `refetchOnWindowFocus` is disabled, `refetchOnReconnect` remains active, making network interruptions reaching two 5xx responses sufficient to trigger this state. Main avoided this behavior by omitting background refetches entirely and relying on an effect keyed on `fismaUid`. The guard now checks `error && !notFound && !enrichment`, and `docs/data-fetching.md` documents this retained-data behavior to ensure consistent implementation across remaining views.\n\nThis commit addresses additional items identified during review:\n\n* **`apiPaths.scores.list` path enforcement:** Restores rejection on missing identifiers. Because `withQuery` drops `undefined` values, omitting a system ID stripped the filter parameter and returned scores for all systems in the data call. Callers folded these results into a function/option ID-keyed map, yielding invalid data instead of throwing a explicit error. `export` and `questions` narrow parameter types to prevent `undefined` values from reaching URL builders.\n* **`FismaTable` export URL parameter handling:** Prevents `FismaTable` from substituting active data call IDs into export URLs. `exportCallId` evaluates to `null` when selections span multiple data calls; substituting values via `??` generated downloads containing mismatched data call responses. While disabled button states cover primary interaction paths, the click handler now exits early on `null` values.\n* **`keys.ts` docblock correction:** Corrects `keys.ts` documentation stating `baseURL` is `/api/v1/`. The relative value `api/v1/` allows single build artifacts to serve behind PR environment prefixes. Integration test mock configurations are updated to match.\n* **Cache key identifier normalization:** Normalizes identifiers in cache keys using `keyId` string conversion so `detail(42)` and `detail('42')` resolve to identical cache entries. This prevents invalidation mismatches caused by mixed string route parameters and numeric call sites.\n* **Devtools dependency isolation:** Moves devtools to `devDependencies` and transitions loading to dynamic imports. Static imports added devtools to runtime dependency graphs evaluated by Snyk and SBOM scanners. Vite converts the `import.meta.env.DEV` ternary to `null` during production builds, omitting devtools chunks from output.\n* **Devtools build assertion coverage:** Adds devtools build assertions to `build:dev`. Previous execution was restricted to `build:prod` within production orchestration pipelines, allowing regressions to pass merge validation. Assertion failure messaging now specifies the always-on `/production` entry point and packaging requirements.\n* **Test suite corrections:** Fixes two questionnaire test suites matching `url.startsWith('scores')` against leading-slash paths, which previously passed by returning empty default payloads. Corrects `delegates.test.ts` mock parameters where test descriptions asserted capability-off rejections while mock setup returned 201 responses.\n\nRefs #619",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/commit/44e746ad34b7e47dba488d66c7677057ca8bc51e",
+            "author": "tarratsco",
+            "created_at": "2026-09-11T00:29:37+00:00"
+          },
+          {
+            "message": "feat(misc#340): serialize deploy workflows with concurrency groups (#729)\n\n* feat(misc#340): serialize deploy workflows with concurrency groups\n\nEvery deploying workflow declares a concurrency group with cancel-in-progress\nfalse: ref-keyed for dev, impl, and the manual deploys, environment-keyed for\nprod, plus a deploy-<env> job group on the ui job so bucket syncs queue\ninstead of racing.\n\nPart of CMS-Enterprise/ztmf-misc#321.\n\n* feat(misc#340): deep queue on the deploy groups, merged-keyed prod group\n\nqueue: max on deploy-dev and deploy-impl so a third PR queues behind the\nsecond instead of evicting its pending deploy (which left that PR with no dev\ndeployment and unmergeable). The prod group is keyed on\ngithub.event.pull_request.merged so unmerged closes cannot evict a pending\nprod deploy.",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/commit/c4cad52c0581da47abcef03554bd226154915e87",
+            "author": "cameron testerman",
+            "created_at": "2026-09-11T00:11:13+00:00"
+          },
+          {
+            "message": "hotfix(misc#386): carry the system id from System Info to the questionnaire and refuse ambiguous acronyms (#734)\n\nThe questionnaire route is keyed on the acronym, which is not unique. The\nSystem Info Questionnaire button linked by acronym alone, so for systems\nsharing one it opened the lowest-id match and answers were saved against\nthat system. The button now navigates with the fismasystemid in route state\non a plain click, leaving modified clicks to the anchor, and acronym\nresolution returns nothing when more than one system matches, with a\nwarning in place of a silent guess.\n\nRefs CMS-Enterprise/ztmf-misc#386",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/commit/e3ce96fad1eaeb314be0e8316664ddf6d3288ff4",
+            "author": "cameron testerman",
+            "created_at": "2026-09-10T20:59:35+00:00"
+          },
+          {
+            "message": "test(misc#297): pin the READONLY_ADMIN email group option and its posted key (#726)",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/commit/61801787a687a8e79e824e9fa1a59484f52c06f2",
+            "author": "cameron testerman",
+            "created_at": "2026-09-09T23:14:36+00:00"
+          },
+          {
+            "message": "feat(misc#351): make the bundle path-agnostic and move the local-dev token to runtime config (#722)\n\n* feat(misc#351): make the bundle path-agnostic and move the local-dev token to runtime config\n\n* fix(misc#351): serve the frostfall scan token via public/config.js\n\n* fix(misc#351): stub dist/config.js at build so a local build never ships the bypass token",
+            "url": "https://github.com/CMS-Enterprise/ztmf-ui/commit/5ac9dce06d33312e0e81e981a6dbe9b83ba92454",
+            "author": "cameron testerman",
+            "created_at": "2026-09-08T14:14:42+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "Esmd-fhir-client-python",
+        "url": "https://github.com/CMS-Enterprise/Esmd-fhir-client-python",
+        "description": null,
+        "archived": false,
+        "topics": [],
+        "issues": [],
+        "pulls": [],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [
+          {
+            "version": "1.0.0",
+            "date": null,
+            "changes": [
+              {
+                "category": "Added",
+                "items": [
+                  "**Shared Utilities Package**: Created `esmd_shared` package to eliminate code duplication",
+                  "Enhanced `EsmdAuthClient` with token caching, better error handling, and type hints",
+                  "Improved `ConfigUtility` with environment variable support and validation",
+                  "Advanced `logger` module with file rotation and configurable formatting",
+                  "**Comprehensive Documentation**: Complete README.md with installation, usage, and API documentation",
+                  "**Development Tools**: Added Makefile with common development commands",
+                  "**Environment Variable Support**: All configuration can now be set via environment variables",
+                  "**Configuration Templates**: Added `config.yaml.template` and `environment.template`",
+                  "**Secure Configuration**: Sensitive data (client secrets) now prefer environment variables",
+                  "**Configuration Validation**: Added validation methods for required configuration",
+                  "**Pytest Configuration**: Complete pytest setup with coverage reporting",
+                  "**Test Fixtures**: Comprehensive shared fixtures in `tests/conftest.py`",
+                  "**Unit Tests**: Sample unit tests for shared utilities with proper mocking",
+                  "**Test Categories**: Markers for unit, integration, network, and slow tests",
+                  "**Requirements with Version Pinning**: Secure, pinned dependencies in `requirements.txt`",
+                  "**Comprehensive setup.py**: Proper package configuration with optional dependencies",
+                  "**Type Checking**: mypy configuration for strict type checking",
+                  "**Code Quality Tools**: flake8, black, and other development tools",
+                  "**Git Integration**: Comprehensive .gitignore for Python projects",
+                  "**Code Quality**: Pre-commit hooks support and quality checks",
+                  "**CLI Tools**: Entry points for command-line usage",
+                  "**Development Workflow**: Quick setup with `make setup`"
+                ]
+              },
+              {
+                "category": "Changed",
+                "items": [
+                  "**Type Hints**: Added comprehensive type annotations throughout shared utilities",
+                  "**Error Handling**: Standardized and improved error handling patterns",
+                  "**Logging**: Enhanced logging with structured output and rotation",
+                  "**Code Structure**: Better separation of concerns and modularity",
+                  "**Dependency Security**: Pinned versions to prevent security vulnerabilities",
+                  "**Credential Management**: Moved sensitive data to environment variables",
+                  "**Token Management**: Added token caching and expiration handling",
+                  "**Configuration Security**: Warnings for insecure configuration practices",
+                  "**API Documentation**: Comprehensive docstrings and type information",
+                  "**Usage Examples**: Clear examples for each module and common use cases",
+                  "**Configuration Guide**: Detailed configuration options and best practices",
+                  "**Development Guide**: Setup instructions and contribution guidelines"
+                ]
+              },
+              {
+                "category": "Fixed",
+                "items": [
+                  "**Code Duplication**: Eliminated duplicate files across modules",
+                  "**Import Issues**: Fixed circular imports and dependency issues",
+                  "**Configuration Loading**: Improved config file discovery and error handling",
+                  "**Token Refresh**: Fixed token expiration and refresh logic",
+                  "**Package Structure**: Proper Python package hierarchy",
+                  "**Dependency Management**: Cleaner dependency resolution",
+                  "**Module Isolation**: Better separation between modules",
+                  "**Testing Infrastructure**: Reliable test setup and execution"
+                ]
+              },
+              {
+                "category": "Security",
+                "items": [
+                  "**Dependency Pinning**: All dependencies are pinned to specific versions",
+                  "**Environment Variables**: Sensitive configuration moved to environment variables",
+                  "**Token Security**: Improved token handling and storage",
+                  "**Input Validation**: Better validation of configuration and input data",
+                  "**Token Caching**: Reduced authentication overhead with intelligent caching",
+                  "**Configuration Caching**: Config loaded once and reused",
+                  "**Logging Optimization**: Efficient logging with rotation and proper levels",
+                  "**Request Optimization**: Better connection handling and timeouts",
+                  "**Testing Pipeline**: Automated testing with coverage reporting",
+                  "**Code Quality Pipeline**: Linting, formatting, and type checking",
+                  "**Build System**: Proper packaging and distribution setup",
+                  "**Documentation Pipeline**: Automated documentation generation",
+                  "--",
+                  "**Import Paths**: Some import paths have changed due to shared utilities",
+                  "**Configuration**: Some configuration keys may have changed",
+                  "**Dependencies**: Minimum Python version is now 3.9+",
+                  "**File Structure**: Some files have been moved or consolidated",
+                  "--"
+                ]
+              }
+            ]
+          },
+          {
+            "version": "1.1.0",
+            "date": null,
+            "changes": [
+              {
+                "category": "Added",
+                "items": [
+                  "**ProviderDeliveryAck**:  Added the Provider Delivery Ack module with proper logging and exception handling.",
+                  "**AuthAPI**: Added code to enforce the required User-Agent header, as some clients were not populating this header. The User-Agent header is mandatory for all API calls."
+                ]
+              },
+              {
+                "category": "Fixed",
+                "items": [
+                  "**NotificationScheduler**: Fixed invalid search parameters by replacing them with valid parameters, updated the request/response processing logic, and added logging.",
+                  "**DocumentRefScheduler**: Fixed invalid search parameters by replacing them with valid parameters, updated the request/response processing logic, and added logging."
+                ]
+              }
+            ]
+          }
+        ],
+        "releases": []
+      },
+      {
+        "name": "power-platform-webres",
+        "url": "https://github.com/CMS-Enterprise/power-platform-webres",
+        "description": "Custom Web Reources for Microsoft Power Platform applications",
+        "archived": false,
+        "topics": [
+          "html-css-javascript",
+          "microsoft-power-apps",
+          "microsoft-power-apps-model-driven-apps",
+          "microsoft-power-platform"
+        ],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "PPE-114 Edit Request Submit Bug",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/pull/48",
+            "created_at": "2026-09-09T18:41:21+00:00",
+            "updated_at": "2026-09-09T18:50:43+00:00",
+            "merged_at": "2026-09-09T18:50:41+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "cheinrichs-oddball",
+            "is_new": true
+          },
+          {
+            "title": "including dataflow ids",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/pull/47",
+            "created_at": "2026-09-08T22:52:04+00:00",
+            "updated_at": "2026-09-09T18:51:24+00:00",
+            "merged_at": "2026-09-09T18:51:22+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "cheinrichs-oddball",
+            "is_new": true
+          },
+          {
+            "title": "Ppe 112/revoke application user access",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/pull/46",
+            "created_at": "2026-09-03T21:59:57+00:00",
+            "updated_at": "2026-09-09T17:32:49+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "cheinrichs-oddball",
+            "is_new": false
+          },
+          {
+            "title": "PPE-92 Updating Local Tools",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/pull/45",
+            "created_at": "2026-09-03T21:51:34+00:00",
+            "updated_at": "2026-09-09T18:53:40+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "cheinrichs-oddball",
+            "is_new": false
+          },
+          {
+            "title": "PPE-85 Validate migration of multi-select Additional Contact Roles [WIP]",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/pull/41",
+            "created_at": "2026-08-24T17:51:03+00:00",
+            "updated_at": "2026-09-04T20:29:47+00:00",
+            "merged_at": "2026-09-04T20:29:45+00:00",
+            "state": "closed",
+            "merged": true,
+            "author": "cheinrichs-oddball",
+            "is_new": false
+          }
+        ],
+        "commits": [
+          {
+            "message": "including dataflow ids (#47)\n\n* including dataflow ids\n\n* we dont want these formatted",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/commit/cb5252ea75518f1dd1f02138a8c1d576d3fac466",
+            "author": "cheinrichs-oddball",
+            "created_at": "2026-09-09T18:51:21+00:00"
+          },
+          {
+            "message": "initial fix for using XRM page instead of the parent javascript which was failing (#48)",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/commit/db8e0761911410cff0dfe4543a85a05bdaa4adf0",
+            "author": "cheinrichs-oddball",
+            "created_at": "2026-09-09T18:50:41+00:00"
+          },
+          {
+            "message": "PPE-85 Validate migration of multi-select Additional Contact Roles [WIP] (#41)\n\n* updating estimated lifecycle costs m script with qa functions. adding our new M script to the manifest. updating the system_intake_contacts.csv to remove a multi select field that was not valid.\n\n* various mapping fixes especially with multi selects\n\n* updated the contract numbers staging and migration flows to fix a formatting issue, and include the QA flow.\n\n* switching up some staging types so we don't lose data\n\n* edit requests and recomendations activities first wip\n\n* grb activitity log work\n\n* documents qa flows\n\n* business case verification improvements\n\n* adding workbook into the git repo\n\n* feat: initial pre-commit config\n\n* feat: add documentation from MINT for pre-commit instructions\n\n* feat: add pre-commit to the github actions to trigger in PRs\n\n* added manifest entry for new dataflow\n\n* updating the name on a dataflow\n\n* preventing a breaking query based on PR feedback. This needs to be null safe by explicitly returning false on null\n\n* request matching join was incorrect and inconsistent with other dataflows.\n\n* returning null when there are no issues, just like the other flows. stay consistent\n\n---------\n\nCo-authored-by: Steven Wade <steven.wade@oddball.io>",
+            "url": "https://github.com/CMS-Enterprise/power-platform-webres/commit/9dae47fd39a06717fc89340b26e4100d4cedbc8c",
+            "author": "cheinrichs-oddball",
+            "created_at": "2026-09-04T20:29:44+00:00"
+          }
+        ],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      },
+      {
+        "name": "emmy-app",
+        "url": "https://github.com/CMS-Enterprise/emmy-app",
+        "description": null,
+        "archived": false,
+        "topics": [],
+        "issues": [],
+        "pulls": [
+          {
+            "title": "[Snyk] Upgrade postcss-import from 16.1.1 to 16.2.0",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/22",
+            "created_at": "2026-09-11T04:01:28+00:00",
+            "updated_at": "2026-09-11T04:01:44+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "emmybot-cms",
+            "is_new": true
+          },
+          {
+            "title": "[Snyk] Upgrade @uswds/uswds from 3.13.0 to 3.14.0",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/21",
+            "created_at": "2026-09-11T04:00:54+00:00",
+            "updated_at": "2026-09-11T04:01:10+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "emmybot-cms",
+            "is_new": true
+          },
+          {
+            "title": "[Snyk] Upgrade sass from 1.102.0 to 1.103.1",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/20",
+            "created_at": "2026-09-11T04:00:48+00:00",
+            "updated_at": "2026-09-11T04:01:07+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "emmybot-cms",
+            "is_new": true
+          },
+          {
+            "title": "[Snyk] Fix for 18 vulnerabilities",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/19",
+            "created_at": "2026-09-09T20:28:48+00:00",
+            "updated_at": "2026-09-09T20:32:10+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "emmybot-cms",
+            "is_new": true
+          },
+          {
+            "title": "Bump bridgecrewio/checkov-action from 12.2296.0 to 12.3122.0",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/18",
+            "created_at": "2026-09-04T08:45:11+00:00",
+            "updated_at": "2026-09-04T08:45:13+00:00",
+            "merged_at": null,
+            "state": "open",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": true
+          },
+          {
+            "title": "Bump bridgecrewio/checkov-action from 12.2296.0 to 12.3119.0",
+            "url": "https://github.com/CMS-Enterprise/emmy-app/pull/8",
+            "created_at": "2026-08-24T21:24:51+00:00",
+            "updated_at": "2026-09-04T08:45:17+00:00",
+            "merged_at": null,
+            "state": "closed",
+            "merged": false,
+            "author": "dependabot[bot]",
+            "is_new": false
+          }
+        ],
+        "commits": [],
+        "contributors": [],
+        "changelog_entries": [],
+        "releases": []
+      }
+    ],
+    "period": {
+      "start": "2026-09-04",
+      "end": "2026-09-11"
+    },
+    "generated_at": "2026-09-11T03:01:10.253789+00:00",
+    "total_repo_count": 76
+  }
+}
