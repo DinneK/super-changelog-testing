@@ -1,0 +1,21 @@
+Weekly Changelog Summary* (2026-10-16 to 2026-10-23)
+
+• 19 of 179 repos with activity
+• 72 commits | 216 PRs | 6 issues
+
+*Key Changes:*
+• super-changelog: Added Initial release of super-changelog
+• super-changelog: Added Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs
+• libyears: Added Scan direct npm production dependencies from the root `package.json`, using
+• libyears: Added Scan npm and PyPI dependencies together, with repository-wide and
+• libyears: Changed Upgrade JSON output from schema v2 to schema v3. This is an intentional
+• libyears: Added Support resolved version snapshots as exact version evidence for declared
+• libyears: Added Add portable continuous integration for the test suite.
+• libyears: Changed Improve human-readable measurement diagnostics while keeping the JSON
+
+*Most Active Repos:*
+• *iv-cbv-payroll*: 36 commits, 81 PRs
+• *share-it-act-lp*: 7 commits, 51 PRs
+• *emmy-app*: 4 commits, 34 PRs
+• *mint-app*: 10 commits, 26 PRs
+• *easi-app*: 1 commits, 9 PRs
