@@ -1,0 +1,21 @@
+Weekly Changelog Summary* (2026-10-30 to 2026-11-06)
+
+• 62 of 179 repos with activity
+• 176 commits | 187 PRs | 10 issues
+
+*Key Changes:*
+• super-changelog: Added Initial release of super-changelog
+• super-changelog: Added Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs
+• libyears: Added Measure explicitly selected declared Ruby groups with repeatable
+• libyears: Added Measure direct RubyGems dependencies from a bounded root `Gemfile.lock` snapshot,
+• libyears: Changed Upgrade JSON output from schema v2 to schema v3. This is an intentional
+• libyears: Added Support resolved version snapshots as exact version evidence for declared
+• libyears: Added Add portable continuous integration for the test suite.
+• libyears: Changed Improve human-readable measurement diagnostics while keeping the JSON
+
+*Most Active Repos:*
+• *iv-cbv-payroll*: 32 commits, 48 PRs
+• *libyears*: 63 commits, 0 PRs
+• *emmy-app*: 23 commits, 17 PRs
+• *ztmf*: 10 commits, 16 PRs
+• *mint-app*: 7 commits, 18 PRs
