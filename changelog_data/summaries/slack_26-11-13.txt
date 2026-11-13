@@ -1,0 +1,21 @@
+Weekly Changelog Summary* (2026-11-06 to 2026-11-13)
+
+• 17 of 179 repos with activity
+• 185 commits | 128 PRs | 5 issues
+
+*Key Changes:*
+• super-changelog: Added Initial release of super-changelog
+• super-changelog: Added Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs
+• libyears: Fixed Align human-readable dependency tables using the displayed headers and values,
+• libyears: Changed Ordinary NuGet scans can date qualified selected versions against a disclosed
+• libyears: Added Automatically report independent Maven Declared / Observed dependency-age views
+• libyears: Added Automatically select qualified current NuGet repository project/lock snapshots
+• libyears: Changed Upgrade JSON output from schema v2 to schema v3. This is an intentional
+• libyears: Added Support resolved version snapshots as exact version evidence for declared
+
+*Most Active Repos:*
+• *libyears*: 100 commits, 0 PRs
+• *emmy-app*: 35 commits, 33 PRs
+• *iv-cbv-payroll*: 25 commits, 37 PRs
+• *mint-app*: 7 commits, 21 PRs
+• *easi-app*: 6 commits, 10 PRs
