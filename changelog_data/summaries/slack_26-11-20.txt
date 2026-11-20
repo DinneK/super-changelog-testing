@@ -1,0 +1,21 @@
+Weekly Changelog Summary* (2026-11-13 to 2026-11-20)
+
+• 19 of 181 repos with activity
+• 168 commits | 175 PRs | 22 issues
+
+*Key Changes:*
+• super-changelog: Added Initial release of super-changelog
+• super-changelog: Added Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs
+• libyears: Fixed Keep every retained unmeasurable Maven Declared occurrence individually visible
+• libyears: Fixed Align ordinary Maven Declared measurements in a module-qualified table with
+• libyears: Changed Keep ordinary directory reports focused on positively relevant ecosystems, with
+• libyears: Added Accept explicitly supplied, byte-bound Maven parent/BOM documents through
+• libyears: Added Automatically report independent Maven Declared / Observed dependency-age views
+• libyears: Changed Upgrade JSON output from schema v2 to schema v3. This is an intentional
+
+*Most Active Repos:*
+• *emmy-app*: 42 commits, 63 PRs
+• *gov-codejson-mcp*: 54 commits, 16 PRs
+• *libyears*: 42 commits, 0 PRs
+• *ztmf-ui*: 8 commits, 22 PRs
+• *iv-cbv-payroll*: 2 commits, 26 PRs
