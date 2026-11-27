@@ -1,0 +1,21 @@
+Weekly Changelog Summary* (2026-11-20 to 2026-11-27)
+
+• 18 of 182 repos with activity
+• 114 commits | 92 PRs | 6 issues
+
+*Key Changes:*
+• super-changelog: Added Initial release of super-changelog
+• super-changelog: Added Weekly pipeline (`run_weekly.py`) producing full and condensed summary PRs
+• libyears: Fixed Keep every retained unmeasurable Maven Declared occurrence individually visible
+• libyears: Fixed Align ordinary Maven Declared measurements in a module-qualified table with
+• libyears: Changed Keep ordinary directory reports focused on positively relevant ecosystems, with
+• libyears: Added Add an explicit extended SBOM metadata budget for larger local inventories,
+• libyears: Added Measure a separate local CycloneDX JSON 1.5 SBOM inventory using supported exact
+• libyears: Changed Upgrade JSON output from schema v2 to schema v3. This is an intentional
+
+*Most Active Repos:*
+• *emmy-app*: 24 commits, 31 PRs
+• *gov-codejson-mcp*: 23 commits, 11 PRs
+• *libyears*: 27 commits, 0 PRs
+• *mint-app*: 4 commits, 16 PRs
+• *easi-app*: 6 commits, 12 PRs
